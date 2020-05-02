@@ -1,0 +1,1572 @@
+{
+  "airbnbpricearea":[
+  {
+    "Subneighbourhood": "Woodside",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 73.22142857,
+    "Avg_Monthly_Price": 1843.235294,
+    "Avg_Weekly_Price": 550.5714286
+  },
+  {
+    "Subneighbourhood": "Woodrow",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 700,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Woodlawn",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 63,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 400
+  },
+  {
+    "Subneighbourhood": "Woodhaven",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 69.62616822,
+    "Avg_Monthly_Price": 1653.6,
+    "Avg_Weekly_Price": 738.4
+  },
+  {
+    "Subneighbourhood": "Windsor Terrace",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 136.6780822,
+    "Avg_Monthly_Price": 2975.933333,
+    "Avg_Weekly_Price": 908.2272727
+  },
+  {
+    "Subneighbourhood": "Willowbrook",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 309,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Williamsburg",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 147.3195084,
+    "Avg_Monthly_Price": 2704.56691,
+    "Avg_Weekly_Price": 858.8277228
+  },
+  {
+    "Subneighbourhood": "Williamsbridge",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 86.97916667,
+    "Avg_Monthly_Price": 1294.5,
+    "Avg_Weekly_Price": 358.5
+  },
+  {
+    "Subneighbourhood": "Whitestone",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 99.54545455,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Westerleigh",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 85,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Westchester Square",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 133,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "West Village",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 263.1866152,
+    "Avg_Monthly_Price": 4857.159091,
+    "Avg_Weekly_Price": 1535.330097
+  },
+  {
+    "Subneighbourhood": "West Farms",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 120,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "West Brighton",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 78.17391304,
+    "Avg_Monthly_Price": 966,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Washington Heights",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 91.19294606,
+    "Avg_Monthly_Price": 1923.982456,
+    "Avg_Weekly_Price": 604.0534351
+  },
+  {
+    "Subneighbourhood": "Wakefield",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 88.10526316,
+    "Avg_Monthly_Price": 1050,
+    "Avg_Weekly_Price": 315
+  },
+  {
+    "Subneighbourhood": "Vinegar Hill",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 177.2903226,
+    "Avg_Monthly_Price": 7108,
+    "Avg_Weekly_Price": 1637.5
+  },
+  {
+    "Subneighbourhood": "Van Nest",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 126.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Upper West Side",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 208.5791878,
+    "Avg_Monthly_Price": 4155.443902,
+    "Avg_Weekly_Price": 1190.510121
+  },
+  {
+    "Subneighbourhood": "Upper East Side",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 188.7766017,
+    "Avg_Monthly_Price": 3945.704663,
+    "Avg_Weekly_Price": 1191.28125
+  },
+  {
+    "Subneighbourhood": "University Heights",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 61.27272727,
+    "Avg_Monthly_Price": 800,
+    "Avg_Weekly_Price": 209.75
+  },
+  {
+    "Subneighbourhood": "Unionport",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 208,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Two Bridges",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 123.1621622,
+    "Avg_Monthly_Price": 2100,
+    "Avg_Weekly_Price": 730.8333333
+  },
+  {
+    "Subneighbourhood": "Tribeca",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 415.3703704,
+    "Avg_Monthly_Price": 6998.529412,
+    "Avg_Weekly_Price": 2040.136364
+  },
+  {
+    "Subneighbourhood": "Tremont",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 68.05,
+    "Avg_Monthly_Price": 1000,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Tottenville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 163,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Tompkinsville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 79.87234043,
+    "Avg_Monthly_Price": 1121.8,
+    "Avg_Weekly_Price": 399.1428571
+  },
+  {
+    "Subneighbourhood": "Todt Hill",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 180.3333333,
+    "Avg_Monthly_Price": 7999,
+    "Avg_Weekly_Price": 2499
+  },
+  {
+    "Subneighbourhood": "Throgs Neck",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 93.94594595,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Theater District",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 448.1661238,
+    "Avg_Monthly_Price": 7008.941176,
+    "Avg_Weekly_Price": 1988.6
+  },
+  {
+    "Subneighbourhood": "Sunset Park",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 93.25110132,
+    "Avg_Monthly_Price": 2090.693878,
+    "Avg_Weekly_Price": 613.2641509
+  },
+  {
+    "Subneighbourhood": "Sunnyside",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 87.3989071,
+    "Avg_Monthly_Price": 1738.6875,
+    "Avg_Weekly_Price": 563.9333333
+  },
+  {
+    "Subneighbourhood": "Stuyvesant Town",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 248.3023256,
+    "Avg_Monthly_Price": 1650,
+    "Avg_Weekly_Price": 1258.333333
+  },
+  {
+    "Subneighbourhood": "Stapleton",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 91.68,
+    "Avg_Monthly_Price": 6000,
+    "Avg_Weekly_Price": 1500
+  },
+  {
+    "Subneighbourhood": "St. George",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 136.5862069,
+    "Avg_Monthly_Price": 2883.333333,
+    "Avg_Weekly_Price": 855.625
+  },
+  {
+    "Subneighbourhood": "St. Albans",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 96.40243902,
+    "Avg_Monthly_Price": 1757.5,
+    "Avg_Weekly_Price": 475
+  },
+  {
+    "Subneighbourhood": "Spuyten Duyvil",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 113.3333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Springfield Gardens",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 105.254717,
+    "Avg_Monthly_Price": 3166.666667,
+    "Avg_Weekly_Price": 863.75
+  },
+  {
+    "Subneighbourhood": "South Slope",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 145.7286245,
+    "Avg_Monthly_Price": 3134.291667,
+    "Avg_Weekly_Price": 1079.574074
+  },
+  {
+    "Subneighbourhood": "South Ozone Park",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 79.3902439,
+    "Avg_Monthly_Price": 2000,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "South Beach",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 59.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Soundview",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 52.1875,
+    "Avg_Monthly_Price": 785,
+    "Avg_Weekly_Price": 237.5
+  },
+  {
+    "Subneighbourhood": "SoHo",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 360.9483696,
+    "Avg_Monthly_Price": 6941.645161,
+    "Avg_Weekly_Price": 1869.433333
+  },
+  {
+    "Subneighbourhood": "Silver Lake",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 70,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Shore Acres",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 120.2727273,
+    "Avg_Monthly_Price": 1233.333333,
+    "Avg_Weekly_Price": 416.6666667
+  },
+  {
+    "Subneighbourhood": "Sheepshead Bay",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 114.8596491,
+    "Avg_Monthly_Price": 2196.583333,
+    "Avg_Weekly_Price": 582.875
+  },
+  {
+    "Subneighbourhood": "Sea Gate",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 447.5,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 9149
+  },
+  {
+    "Subneighbourhood": "Schuylerville",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 66.09090909,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Rossville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 58.5,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Rosedale",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 74.79012346,
+    "Avg_Monthly_Price": 4000,
+    "Avg_Weekly_Price": 1200
+  },
+  {
+    "Subneighbourhood": "Rosebank",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 105.375,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Roosevelt Island",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 106.9139785,
+    "Avg_Monthly_Price": 1733.333333,
+    "Avg_Weekly_Price": 579.6666667
+  },
+  {
+    "Subneighbourhood": "Rockaway Beach",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 129.1549296,
+    "Avg_Monthly_Price": 1766.666667,
+    "Avg_Weekly_Price": 711.3333333
+  },
+  {
+    "Subneighbourhood": "Riverdale",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 231.3636364,
+    "Avg_Monthly_Price": 5500,
+    "Avg_Weekly_Price": 899
+  },
+  {
+    "Subneighbourhood": "Ridgewood",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 80.86255924,
+    "Avg_Monthly_Price": 1901.966667,
+    "Avg_Weekly_Price": 556.1351351
+  },
+  {
+    "Subneighbourhood": "Richmondtown",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 92.66666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Richmond Hill",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 87.16,
+    "Avg_Monthly_Price": 1903.285714,
+    "Avg_Weekly_Price": 475.5555556
+  },
+  {
+    "Subneighbourhood": "Rego Park",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 80.17204301,
+    "Avg_Monthly_Price": 2233.333333,
+    "Avg_Weekly_Price": 580.8181818
+  },
+  {
+    "Subneighbourhood": "Red Hook",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 141.4823529,
+    "Avg_Monthly_Price": 3576.363636,
+    "Avg_Weekly_Price": 1176.461538
+  },
+  {
+    "Subneighbourhood": "Randall Manor",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 125.5882353,
+    "Avg_Monthly_Price": 1800,
+    "Avg_Weekly_Price": 499
+  },
+  {
+    "Subneighbourhood": "Queens Village",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 88.01428571,
+    "Avg_Monthly_Price": 2433.333333,
+    "Avg_Weekly_Price": 557.5
+  },
+  {
+    "Subneighbourhood": "Prospect-Lefferts Gardens",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 108.8581952,
+    "Avg_Monthly_Price": 1759.983871,
+    "Avg_Weekly_Price": 613.6413043
+  },
+  {
+    "Subneighbourhood": "Prospect Heights",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 147,
+    "Avg_Monthly_Price": 2794.763636,
+    "Avg_Weekly_Price": 873.3013699
+  },
+  {
+    "Subneighbourhood": "Prince's Bay",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 506.6666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Port Richmond",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 58.2,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Port Morris",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 84.12244898,
+    "Avg_Monthly_Price": 1124.5,
+    "Avg_Weekly_Price": 399.3333333
+  },
+  {
+    "Subneighbourhood": "Port Ivory",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 95,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Pelham Gardens",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 97.67647059,
+    "Avg_Monthly_Price": 1375,
+    "Avg_Weekly_Price": 430
+  },
+  {
+    "Subneighbourhood": "Pelham Bay",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 122.8235294,
+    "Avg_Monthly_Price": 1600,
+    "Avg_Weekly_Price": 450
+  },
+  {
+    "Subneighbourhood": "Parkchester",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 69.32608696,
+    "Avg_Monthly_Price": 990,
+    "Avg_Weekly_Price": 500
+  },
+  {
+    "Subneighbourhood": "Park Slope",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 172.3260437,
+    "Avg_Monthly_Price": 3321.973333,
+    "Avg_Weekly_Price": 1010.9
+  },
+  {
+    "Subneighbourhood": "Ozone Park",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 86.66666667,
+    "Avg_Monthly_Price": 1783.333333,
+    "Avg_Weekly_Price": 501.6666667
+  },
+  {
+    "Subneighbourhood": "Olinville",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 69.16666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Oakwood",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 93.33333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Norwood",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 76.23684211,
+    "Avg_Monthly_Price": 1190,
+    "Avg_Weekly_Price": 356
+  },
+  {
+    "Subneighbourhood": "North Riverdale",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 84.2,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Nolita",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 194.0253968,
+    "Avg_Monthly_Price": 4807.894737,
+    "Avg_Weekly_Price": 1305.322581
+  },
+  {
+    "Subneighbourhood": "NoHo",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 254.9333333,
+    "Avg_Monthly_Price": 4831,
+    "Avg_Weekly_Price": 1353.285714
+  },
+  {
+    "Subneighbourhood": "New Springville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 84,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "New Dorp Beach",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 61.4,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "New Dorp",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 57,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "New Brighton",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 62.5,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Neponsit",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 274.6666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Navy Yard",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 140.2857143,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 650
+  },
+  {
+    "Subneighbourhood": "Murray Hill",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 240.0969479,
+    "Avg_Monthly_Price": 3572.4,
+    "Avg_Weekly_Price": 1083.666667
+  },
+  {
+    "Subneighbourhood": "Mount Hope",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 77.32,
+    "Avg_Monthly_Price": 1518.5,
+    "Avg_Weekly_Price": 483
+  },
+  {
+    "Subneighbourhood": "Mount Eden",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 66.125,
+    "Avg_Monthly_Price": 1400,
+    "Avg_Weekly_Price": 500
+  },
+  {
+    "Subneighbourhood": "Mott Haven",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 90.57534247,
+    "Avg_Monthly_Price": 1055.75,
+    "Avg_Weekly_Price": 333.4285714
+  },
+  {
+    "Subneighbourhood": "Morrisania",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 78.39130435,
+    "Avg_Monthly_Price": 1250,
+    "Avg_Weekly_Price": 750
+  },
+  {
+    "Subneighbourhood": "Morris Park",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 61.82608696,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 275
+  },
+  {
+    "Subneighbourhood": "Morris Heights",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 69.3,
+    "Avg_Monthly_Price": 1050,
+    "Avg_Weekly_Price": 245
+  },
+  {
+    "Subneighbourhood": "Morningside Heights",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 107.7678571,
+    "Avg_Monthly_Price": 1853.032258,
+    "Avg_Weekly_Price": 643.787234
+  },
+  {
+    "Subneighbourhood": "Mill Basin",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 110.9166667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Midwood",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 80.66086957,
+    "Avg_Monthly_Price": 1266.666667,
+    "Avg_Weekly_Price": 401.7
+  },
+  {
+    "Subneighbourhood": "Midtown",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 419.2046569,
+    "Avg_Monthly_Price": 4720.794872,
+    "Avg_Weekly_Price": 1596.945946
+  },
+  {
+    "Subneighbourhood": "Midland Beach",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 93.125,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Middle Village",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 115.1025641,
+    "Avg_Monthly_Price": 4337.5,
+    "Avg_Weekly_Price": 650
+  },
+  {
+    "Subneighbourhood": "Melrose",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 57.63636364,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Maspeth",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 88.11510791,
+    "Avg_Monthly_Price": 2004.5,
+    "Avg_Weekly_Price": 643.875
+  },
+  {
+    "Subneighbourhood": "Mariners Harbor",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 87,
+    "Avg_Monthly_Price": 990,
+    "Avg_Weekly_Price": 360
+  },
+  {
+    "Subneighbourhood": "Marble Hill",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 90.83333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 265
+  },
+  {
+    "Subneighbourhood": "Manhattan Beach",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 861.9230769,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 850
+  },
+  {
+    "Subneighbourhood": "Lower East Side",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 254.7270789,
+    "Avg_Monthly_Price": 3382.032609,
+    "Avg_Weekly_Price": 1042.927273
+  },
+  {
+    "Subneighbourhood": "Longwood",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 92.5915493,
+    "Avg_Monthly_Price": 1741.5,
+    "Avg_Weekly_Price": 515.6666667
+  },
+  {
+    "Subneighbourhood": "Long Island City",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 127.0069085,
+    "Avg_Monthly_Price": 2343.28,
+    "Avg_Weekly_Price": 717.7407407
+  },
+  {
+    "Subneighbourhood": "Little Neck",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 73.85714286,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Little Italy",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 241.0546875,
+    "Avg_Monthly_Price": 6427.5,
+    "Avg_Weekly_Price": 1890.5
+  },
+  {
+    "Subneighbourhood": "Lighthouse Hill",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 157.5,
+    "Avg_Monthly_Price": 3500,
+    "Avg_Weekly_Price": 1000
+  },
+  {
+    "Subneighbourhood": "Laurelton",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 78.25806452,
+    "Avg_Monthly_Price": 2550,
+    "Avg_Weekly_Price": 700
+  },
+  {
+    "Subneighbourhood": "Kips Bay",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 205.3333333,
+    "Avg_Monthly_Price": 4228.675676,
+    "Avg_Weekly_Price": 1222.509434
+  },
+  {
+    "Subneighbourhood": "Kingsbridge",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 80.76811594,
+    "Avg_Monthly_Price": 2167.25,
+    "Avg_Weekly_Price": 485
+  },
+  {
+    "Subneighbourhood": "Kew Gardens Hills",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 102.3571429,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Kew Gardens",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 91.58333333,
+    "Avg_Monthly_Price": 1450,
+    "Avg_Weekly_Price": 470
+  },
+  {
+    "Subneighbourhood": "Kensington",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 95.40116279,
+    "Avg_Monthly_Price": 1870.588235,
+    "Avg_Weekly_Price": 658.3461538
+  },
+  {
+    "Subneighbourhood": "Jamaica Hills",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 125.6666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Jamaica Estates",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 201.8666667,
+    "Avg_Monthly_Price": 12000,
+    "Avg_Weekly_Price": 3500
+  },
+  {
+    "Subneighbourhood": "Jamaica",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 90.80496454,
+    "Avg_Monthly_Price": 1181.111111,
+    "Avg_Weekly_Price": 340.3846154
+  },
+  {
+    "Subneighbourhood": "Jackson Heights",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 83.16826923,
+    "Avg_Monthly_Price": 1673.0625,
+    "Avg_Weekly_Price": 541.15
+  },
+  {
+    "Subneighbourhood": "Inwood",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 86.216,
+    "Avg_Monthly_Price": 2131.2,
+    "Avg_Weekly_Price": 728.52
+  },
+  {
+    "Subneighbourhood": "Hunts Point",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 56,
+    "Avg_Monthly_Price": 840,
+    "Avg_Weekly_Price": 287.5
+  },
+  {
+    "Subneighbourhood": "Huguenot",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 180,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Howland Hook",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 130,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 525
+  },
+  {
+    "Subneighbourhood": "Howard Beach",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 114.7777778,
+    "Avg_Monthly_Price": 2225,
+    "Avg_Weekly_Price": 599
+  },
+  {
+    "Subneighbourhood": "Holliswood",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 228.8,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Hollis",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 94,
+    "Avg_Monthly_Price": 651,
+    "Avg_Weekly_Price": 184
+  },
+  {
+    "Subneighbourhood": "Highbridge",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 74.09090909,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 388.75
+  },
+  {
+    "Subneighbourhood": "Hell's Kitchen",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 231.389284,
+    "Avg_Monthly_Price": 3604.9,
+    "Avg_Weekly_Price": 1051.790323
+  },
+  {
+    "Subneighbourhood": "Harlem",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 120.9747384,
+    "Avg_Monthly_Price": 2543.772152,
+    "Avg_Weekly_Price": 738.0978261
+  },
+  {
+    "Subneighbourhood": "Grymes Hill",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 139.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Greenwich Village",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 271.2972973,
+    "Avg_Monthly_Price": 5137.735294,
+    "Avg_Weekly_Price": 1587.767442
+  },
+  {
+    "Subneighbourhood": "Greenpoint",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 149.8003714,
+    "Avg_Monthly_Price": 2709.886525,
+    "Avg_Weekly_Price": 813.9495798
+  },
+  {
+    "Subneighbourhood": "Great Kills",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 89.33333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Gravesend",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 80.45454546,
+    "Avg_Monthly_Price": 1653.428571,
+    "Avg_Weekly_Price": 423.2
+  },
+  {
+    "Subneighbourhood": "Grant City",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 53.16666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Graniteville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 60,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Gramercy",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 247.8657534,
+    "Avg_Monthly_Price": 3827.434783,
+    "Avg_Weekly_Price": 1060.87234
+  },
+  {
+    "Subneighbourhood": "Gowanus",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 161.5867769,
+    "Avg_Monthly_Price": 3609.56,
+    "Avg_Weekly_Price": 1058.514286
+  },
+  {
+    "Subneighbourhood": "Glendale",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 71.82894737,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 650
+  },
+  {
+    "Subneighbourhood": "Gerritsen Beach",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 120,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Fresh Meadows",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 103.0606061,
+    "Avg_Monthly_Price": 6750,
+    "Avg_Weekly_Price": 2500
+  },
+  {
+    "Subneighbourhood": "Fort Wadsworth",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 800,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Fort Hamilton",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 101.5849057,
+    "Avg_Monthly_Price": 2690,
+    "Avg_Weekly_Price": 754.1666667
+  },
+  {
+    "Subneighbourhood": "Fort Greene",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 151.7978495,
+    "Avg_Monthly_Price": 2928.42029,
+    "Avg_Weekly_Price": 917.4520548
+  },
+  {
+    "Subneighbourhood": "Forest Hills",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 124.7482014,
+    "Avg_Monthly_Price": 1926,
+    "Avg_Weekly_Price": 472.8
+  },
+  {
+    "Subneighbourhood": "Fordham",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 83.16363636,
+    "Avg_Monthly_Price": 1275,
+    "Avg_Weekly_Price": 335
+  },
+  {
+    "Subneighbourhood": "Flushing",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 98.01596806,
+    "Avg_Monthly_Price": 2122.913043,
+    "Avg_Weekly_Price": 502.5714286
+  },
+  {
+    "Subneighbourhood": "Flatlands",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 101.2808989,
+    "Avg_Monthly_Price": 2169.818182,
+    "Avg_Weekly_Price": 653.6363636
+  },
+  {
+    "Subneighbourhood": "Flatiron District",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 338.6962025,
+    "Avg_Monthly_Price": 5035,
+    "Avg_Weekly_Price": 2571.363636
+  },
+  {
+    "Subneighbourhood": "Flatbush",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 97.37785016,
+    "Avg_Monthly_Price": 2062.169492,
+    "Avg_Weekly_Price": 719.5733333
+  },
+  {
+    "Subneighbourhood": "Financial District",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 209.1744966,
+    "Avg_Monthly_Price": 4441.69697,
+    "Avg_Weekly_Price": 1159.586207
+  },
+  {
+    "Subneighbourhood": "Fieldston",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 259,
+    "Avg_Monthly_Price": 1675,
+    "Avg_Weekly_Price": 475
+  },
+  {
+    "Subneighbourhood": "Far Rockaway",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 179.1764706,
+    "Avg_Monthly_Price": 1100,
+    "Avg_Weekly_Price": 275
+  },
+  {
+    "Subneighbourhood": "Emerson Hill",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 83.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Eltingville",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 142.6666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Elmhurst",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 77.75415282,
+    "Avg_Monthly_Price": 1473.944444,
+    "Avg_Weekly_Price": 406.7142857
+  },
+  {
+    "Subneighbourhood": "Edgemere",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 90,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Edenwald",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 83.66666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Eastchester",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 135.1428571,
+    "Avg_Monthly_Price": 2503.714286,
+    "Avg_Weekly_Price": 674.1428571
+  },
+  {
+    "Subneighbourhood": "East Village",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 185.6613757,
+    "Avg_Monthly_Price": 3990.433155,
+    "Avg_Weekly_Price": 1201.434043
+  },
+  {
+    "Subneighbourhood": "East New York",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 91.22692308,
+    "Avg_Monthly_Price": 2052.222222,
+    "Avg_Weekly_Price": 749.5
+  },
+  {
+    "Subneighbourhood": "East Morrisania",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 94.33333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "East Harlem",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 140.1267007,
+    "Avg_Monthly_Price": 2095.663793,
+    "Avg_Weekly_Price": 748.1454545
+  },
+  {
+    "Subneighbourhood": "East Flatbush",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 104.2619503,
+    "Avg_Monthly_Price": 1841.1875,
+    "Avg_Weekly_Price": 541.0810811
+  },
+  {
+    "Subneighbourhood": "East Elmhurst",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 85.29361702,
+    "Avg_Monthly_Price": 1966.571429,
+    "Avg_Weekly_Price": 513.5714286
+  },
+  {
+    "Subneighbourhood": "Dyker Heights",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 80.82352941,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 220
+  },
+  {
+    "Subneighbourhood": "DUMBO",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 201.9142857,
+    "Avg_Monthly_Price": 3480,
+    "Avg_Weekly_Price": 881.25
+  },
+  {
+    "Subneighbourhood": "Downtown Brooklyn",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 159.5172414,
+    "Avg_Monthly_Price": 2555.666667,
+    "Avg_Weekly_Price": 841.2
+  },
+  {
+    "Subneighbourhood": "Douglaston",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 97.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Dongan Hills",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 101.25,
+    "Avg_Monthly_Price": 3500,
+    "Avg_Weekly_Price": 1200
+  },
+  {
+    "Subneighbourhood": "Ditmars Steinway",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 102.8295082,
+    "Avg_Monthly_Price": 2109.705882,
+    "Avg_Weekly_Price": 637.2926829
+  },
+  {
+    "Subneighbourhood": "Cypress Hills",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 113.1907514,
+    "Avg_Monthly_Price": 1735.333333,
+    "Avg_Weekly_Price": 492.1
+  },
+  {
+    "Subneighbourhood": "Crown Heights",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 114.0960285,
+    "Avg_Monthly_Price": 2157.736264,
+    "Avg_Weekly_Price": 635.8712446
+  },
+  {
+    "Subneighbourhood": "Country Club",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 525,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Corona",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 63.14666667,
+    "Avg_Monthly_Price": 962.25,
+    "Avg_Weekly_Price": 293.75
+  },
+  {
+    "Subneighbourhood": "Coney Island",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 100.5,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Concourse Village",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 72.64102564,
+    "Avg_Monthly_Price": 1780,
+    "Avg_Weekly_Price": 579
+  },
+  {
+    "Subneighbourhood": "Concourse",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 81,
+    "Avg_Monthly_Price": 2633,
+    "Avg_Weekly_Price": 838.3333333
+  },
+  {
+    "Subneighbourhood": "Concord",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 72.47368421,
+    "Avg_Monthly_Price": 1626.25,
+    "Avg_Weekly_Price": 547.75
+  },
+  {
+    "Subneighbourhood": "Columbia St",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 161.375,
+    "Avg_Monthly_Price": 2133.333333,
+    "Avg_Weekly_Price": 694.4444444
+  },
+  {
+    "Subneighbourhood": "College Point",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 86.70833333,
+    "Avg_Monthly_Price": 5337.5,
+    "Avg_Weekly_Price": 1487.5
+  },
+  {
+    "Subneighbourhood": "Cobble Hill",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 197.4230769,
+    "Avg_Monthly_Price": 3781.8,
+    "Avg_Weekly_Price": 1100.333333
+  },
+  {
+    "Subneighbourhood": "Co-op City",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 56.66666667,
+    "Avg_Monthly_Price": 1304.5,
+    "Avg_Weekly_Price": 390
+  },
+  {
+    "Subneighbourhood": "Clinton Hill",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 189.4482173,
+    "Avg_Monthly_Price": 2926.888889,
+    "Avg_Weekly_Price": 1002.73
+  },
+  {
+    "Subneighbourhood": "Clifton",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 75.8125,
+    "Avg_Monthly_Price": 1400,
+    "Avg_Weekly_Price": 405
+  },
+  {
+    "Subneighbourhood": "Clason Point",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 85.51851852,
+    "Avg_Monthly_Price": 2050,
+    "Avg_Weekly_Price": 633
+  },
+  {
+    "Subneighbourhood": "Claremont Village",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 84.57142857,
+    "Avg_Monthly_Price": 1350,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Civic Center",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 218.8490566,
+    "Avg_Monthly_Price": 2650,
+    "Avg_Weekly_Price": 628
+  },
+  {
+    "Subneighbourhood": "City Island",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 102.25,
+    "Avg_Monthly_Price": 1825,
+    "Avg_Weekly_Price": 576.6666667
+  },
+  {
+    "Subneighbourhood": "Chinatown",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 228.1201923,
+    "Avg_Monthly_Price": 3370.219512,
+    "Avg_Weekly_Price": 1043.584906
+  },
+  {
+    "Subneighbourhood": "Chelsea",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 218.5372751,
+    "Avg_Monthly_Price": 4929.633028,
+    "Avg_Weekly_Price": 1550.11811
+  },
+  {
+    "Subneighbourhood": "Castleton Corners",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 61.66666667,
+    "Avg_Monthly_Price": 4000,
+    "Avg_Weekly_Price": 1000
+  },
+  {
+    "Subneighbourhood": "Castle Hill",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 84.2,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Carroll Gardens",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 173.6551724,
+    "Avg_Monthly_Price": 3796.37037,
+    "Avg_Weekly_Price": 1215.181818
+  },
+  {
+    "Subneighbourhood": "Canarsie",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 102.6489362,
+    "Avg_Monthly_Price": 2226.846154,
+    "Avg_Weekly_Price": 688.25
+  },
+  {
+    "Subneighbourhood": "Cambria Heights",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 85.24242424,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bushwick",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 86.15702145,
+    "Avg_Monthly_Price": 1852.194313,
+    "Avg_Weekly_Price": 537.300813
+  },
+  {
+    "Subneighbourhood": "Bull's Head",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 58.25,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Brownsville",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 81.88607595,
+    "Avg_Monthly_Price": 1750,
+    "Avg_Weekly_Price": 478.3333333
+  },
+  {
+    "Subneighbourhood": "Brooklyn Heights",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 208.3466667,
+    "Avg_Monthly_Price": 4148.75,
+    "Avg_Weekly_Price": 1223.619048
+  },
+  {
+    "Subneighbourhood": "Bronxdale",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 80.57894737,
+    "Avg_Monthly_Price": 630,
+    "Avg_Weekly_Price": 179
+  },
+  {
+    "Subneighbourhood": "Brighton Beach",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 153.7530864,
+    "Avg_Monthly_Price": 3350,
+    "Avg_Weekly_Price": 896
+  },
+  {
+    "Subneighbourhood": "Briarwood",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 114.2,
+    "Avg_Monthly_Price": 1301.25,
+    "Avg_Weekly_Price": 356.5
+  },
+  {
+    "Subneighbourhood": "Breezy Point",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 209.3333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Borough Park",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 63.99295775,
+    "Avg_Monthly_Price": 1538.909091,
+    "Avg_Weekly_Price": 525.3571429
+  },
+  {
+    "Subneighbourhood": "Boerum Hill",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 209.734104,
+    "Avg_Monthly_Price": 4562.318182,
+    "Avg_Weekly_Price": 1335.5
+  },
+  {
+    "Subneighbourhood": "Bergen Beach",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 98.82352941,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bensonhurst",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 77.35897436,
+    "Avg_Monthly_Price": 1635.285714,
+    "Avg_Weekly_Price": 444.2857143
+  },
+  {
+    "Subneighbourhood": "Belmont",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 98.63333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bellerose",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 75.33333333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Belle Harbor",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 163.6666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bedford-Stuyvesant",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 109.330254,
+    "Avg_Monthly_Price": 2263.877404,
+    "Avg_Weekly_Price": 690.2597938
+  },
+  {
+    "Subneighbourhood": "Bayswater",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 81.84615385,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": 387
+  },
+  {
+    "Subneighbourhood": "Bayside",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 113.3064516,
+    "Avg_Monthly_Price": 2300,
+    "Avg_Weekly_Price": 900
+  },
+  {
+    "Subneighbourhood": "Baychester",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 88.2,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bay Terrace, Staten Island",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 150,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Bay Terrace",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 104.5,
+    "Avg_Monthly_Price": 2799.5,
+    "Avg_Weekly_Price": 1150
+  },
+  {
+    "Subneighbourhood": "Bay Ridge",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 108.19375,
+    "Avg_Monthly_Price": 2245.555556,
+    "Avg_Weekly_Price": 653.9545455
+  },
+  {
+    "Subneighbourhood": "Battery Park City",
+    "Neighbourhood": "Manhattan",
+    "Avg_Daily_Price": 315.5492958,
+    "Avg_Monthly_Price": 4153.076923,
+    "Avg_Weekly_Price": 1315.307692
+  },
+  {
+    "Subneighbourhood": "Bath Beach",
+    "Neighbourhood": "Brooklyn",
+    "Avg_Daily_Price": 81.95833333,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Astoria",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 104.01606,
+    "Avg_Monthly_Price": 2183.967742,
+    "Avg_Weekly_Price": 621.3535354
+  },
+  {
+    "Subneighbourhood": "Arverne",
+    "Neighbourhood": "Queens",
+    "Avg_Daily_Price": 172.3780488,
+    "Avg_Monthly_Price": 3017,
+    "Avg_Weekly_Price": 921.8
+  },
+  {
+    "Subneighbourhood": "Arrochar",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 110.5,
+    "Avg_Monthly_Price": 2633.333333,
+    "Avg_Weekly_Price": 1367.8
+  },
+  {
+    "Subneighbourhood": "Arden Heights",
+    "Neighbourhood": "Staten Island",
+    "Avg_Daily_Price": 92.16666667,
+    "Avg_Monthly_Price": null,
+    "Avg_Weekly_Price": null
+  },
+  {
+    "Subneighbourhood": "Allerton",
+    "Neighbourhood": "Bronx",
+    "Avg_Daily_Price": 90.71111111,
+    "Avg_Monthly_Price": 932.5,
+    "Avg_Weekly_Price": 301.25
+  }
+ ]}
+  
