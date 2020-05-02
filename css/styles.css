@@ -1,0 +1,247 @@
+html { 
+    height: 100%; 
+     }
+  
+  
+  .airbnb {
+  
+    position: absolute;
+    left: 2%;
+    top: 11%;
+    
+  
+  } 
+  
+  
+  * {
+      margin: 0;
+      padding: 0;
+  }
+  
+  p {
+      padding: 0 0 15px 0;
+      line-height: 1.8em;
+      color: #152765; 
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4
+   {
+      font: normal 175% sans-serif;
+      margin: 0 0 15px 0;
+      padding: 10px 0 5px 0;
+  }
+  
+  
+  h2,h3 {
+      color: #152765;
+      letter-spacing: 0.08em;
+  }
+  
+  h4 {
+    font: bold 95% arial, sans-serif;
+    padding: 0 0 0px 0;
+    color: #152765;
+  }
+  
+  body {
+    font-family: "Lato", sans-serif;
+  }
+
+  #mainbar {
+    font-size: 16px; 
+  }
+    
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+      position: fixed; 
+    top: 215px;
+    left: 25px;
+    width: 175px;
+    transition: 0.5s; 
+    color: #152765;
+  }
+  
+  ul.navbar li {
+    background: #E9E8E8;
+    margin: 11px 0;
+    padding: 6px;
+    border-left: 1em solid #152765;
+    }
+
+  ul.navbar a {
+    text-decoration: none;
+    color: #152765;
+    display: inline;
+  }
+
+
+  .detail {
+    margin-left: 220px; 
+    font-size: 16px; 
+    padding: 0px 10px;
+    color: #152765;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .navbar {padding-top: 15px;}
+    .navbar a {font-size: 18px;}
+  }
+
+  a:hover:not(.picked) {
+    background: #F6CB91;
+
+
+  }
+  
+  .picked {
+  background: #F6CB91;
+
+
+}
+
+  #airbnb_picture {
+    width: 1265px;
+    position: relative;
+    height: 210px;
+    background: url(../image/NY.png) no-repeat;
+  }
+
+  .airbnb {
+    position: absolute;
+    left: 4%;
+    padding: 2px 0 0px 0px;
+    
+  }
+
+  /* adjust h1 Topic */
+
+  
+  #airbnb_picture h1{
+      font: normal 140% 'century gothic', arial, sans-serif;
+      border-bottom: 0;
+      text-transform: none;
+      margin: 0;
+      position: absolute;
+      left: 13%;
+      }
+  
+  #topic h1,
+  #topic h1 a,
+  #topic h1 a:hover {
+      padding: 10px 0 0 0;
+      color: #fff;
+      letter-spacing: 0.1em;
+      text-decoration: none;
+      padding: 110px 0 5px 25px;
+  }
+
+
+  #bottom {
+    width: 1265px;
+    height: 23px;
+    padding: 17px 0 4px 0;
+    text-align: center;
+    background: #E9E8E8;
+    color: #152765;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    font-size: 80%;
+  }
+  
+  .grid path {
+    stroke-width: 0;
+  }
+  
+  .grid .tick line {
+    stroke: #c2c9cc;
+    stroke-opacity: 0.3;
+
+  }
+  
+
+
+  /* scatter plot */
+
+  .label{
+    font-size: 13px;
+  }
+  
+  .legend text,
+  .axis text {
+    font-size: 13px;
+    fill: #333;
+  }
+  
+  .axis path,
+  .axis line{
+    fill: none;
+    stroke-width: 1px;
+    stroke: #777;
+  }
+  
+  .circle{
+    fill-opacity: 0.65;
+  }
+  
+  .bubble{
+    opacity: 1;
+    transition: opacity 0.3s;
+  }
+  
+  .bubble:hover text{
+    opacity: 1;
+  }
+  
+  .bubble:hover circle{
+    fill-opacity: 1;
+  }
+  
+  .legend rect{
+    fill-opacity: 0.75;
+  }
+  
+  .legeng:hover rect{
+    fill-opacity:1;
+
+  
+  }
+
+    /* List conclusion */
+  ul.square {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* formula box */
+  #myDIV {
+    width: 80%;
+    left: 85px;
+    position: relative;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #E4EDEE;
+    margin-top: 10px;
+  }
+
+    /* formula box */
+    #myOcc {
+      width: 95%;
+      left: 20px;
+      position: relative;
+      padding: 20px 0;
+      text-align: center;
+      background-color: #E4EDEE;
+      margin-top: 10px;
+    }
+
+    /* bullet position */
+    ul.a {
+      list-style-position: inside;
+    }
