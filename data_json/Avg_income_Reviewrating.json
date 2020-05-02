@@ -1,0 +1,17 @@
+[
+  {
+    "Review_Scores_Rating": "high",
+    "Avg_Yearly_Income": 20470.58952,
+    "Avg_Monthly_Income": 1705.88246
+  },
+  {
+    "Review_Scores_Rating": "moderate",
+    "Avg_Yearly_Income": 20626.8077,
+    "Avg_Monthly_Income": 1718.900642
+  },
+  {
+    "Review_Scores_Rating": "low",
+    "Avg_Yearly_Income": 37330.96871,
+    "Avg_Monthly_Income": 3110.914059
+  }
+]
