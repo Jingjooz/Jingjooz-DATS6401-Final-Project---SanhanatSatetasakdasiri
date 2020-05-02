@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>AIRBNB NYC 2020 - Activity</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- D3 Tooltip CSS -->
+    <link rel="stylesheet" href="css/d3-tip.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Google API -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    
+</head>
+
+<body onload="myFunction()">
+  <div id="overview">
+    <div id="airbnb_picture">
+        <div class="airbnb">
+        <img src="image/Logo.png" alt="Airbnb" width="120" height="108"><!--airbnb-->
+    </div>
+           <div id="topic">
+            <h1>New York City 2020</h1>
+            </div><!--topic-->
+    </div><!--airbnb_picture-->
+
+    <div id="mainbar">
+        <ul class="navbar">  <!-- Create a narvar bar that display pages of the website-->
+          <li><a href="home.htm"><i class="fa fa-fw fa-home"></i> HOME</a></li>
+          <li><a href="price.htm"><i class="fa fa-fw fa-bar-chart"></i> PRICE</a></li>
+          <li><a class="picked" href="activity.htm"><i class="fa fa-fw fa fa-address-card-o"></i> ACTIVITY</a></li>
+          <li><a href="income.htm"><i class="fa fa-fw fa fa-money"></i> INCOME</a></li>
+        </ul>
+    </div><!-- mainbar -->
+
+    <!-- adapt the code from W3school to do the navigator bar-->
+    <script type="text/javascript">
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+          document.getElementById("mainbar").style.cssText = "font-size: 17px";
+          } else {
+          document.getElementById("mainbar").style.cssText = "font-size: 13px";
+        }
+      }
+      </script>
+
+      <div class="detail">
+        <h2 style="text-align:center; font: bold 175% sans-serif; margin: 0 0 15px 0; padding: 30px 0 5px 0;" >Activity Analysis</h2>
+        <p> Activity analysis is the review of the activity about Airbnb customers and hosts. This part focuses on the number of reviews, reviewing score rating, availbility, the number of hosts, and the host response rate. In addition, the number of bookings and occupancy rate are estimated and analyized to see Airbnb activity of the customers. In this section, both the customers and hosts are able to see the activity indicators analysis in order to help them to make a decision for finding the best temporary accommodations in New York City and improve quality of housing for boosting reviewing scores and occupancy rates, based on the questions as follow:
+        <ul class="a", type="square">
+          <li style="padding-left: 100px">What are the differences between Airbnb activities of NYC and other cities in the US?</li>
+          <li style="padding-left: 100px">How does occupancy rate and review ratings by location and room type?</li>
+          <li style="padding-left: 100px">How does number of Airbnb customers vary by location and room type?</li>
+          <li style="padding-left: 100px">How does availability of listings vary by location, room type, and review ratings?</li>
+          <li style="padding-left: 100px">Are there Airbnb super-hosts in NYC, and what makes a host as Super host? </li>
+          </ul>
+        </p>
+
+        <h3 style="font: bold 175% sans-serif;"> The Occupancy Model</h3>
+        <p>The occupancy model can be used to estimate how often an Airbnb listing is being rented out, and also approximate a listing's income. According to the notion of Airbnb, the reviews per month, the number of minimum nights, and the number of average stay night in NYC are used to estimated the number of bookings, the number of nights, and occupancy rate. Please click  
+
+          <!-- formula box-->
+          <button onclick="myFunction()">Occupancy Formula</button>
+          <div id="myOcc">  
+            Given: Average stay night in NYC = 6.4 nights / Maximun Occupancy rate = 70%<br><br> 
+            Bookings per month = [Reviews per month/0.5] --> Review rate of 50%<br> 
+            Occupancy rate = [Bookings_per_month x (Pick maximum one between the number of stay night and minimum nights)]/30 days<br><br>
+            Note: The occupancy rate was capped at 70% - a relatively high, but reasonable number for a highly occupied "hotel"               
+          </div></p>
+
+          <h3 style="font: bold 175% sans-serif;">Airbnb Activity in the United States</h3>
+        <p>Inside Airbnb estimated occupancy rate of 26 big cities with 18 states in the United States. It seems that there are different rates in each area. Based on the differences, we need to compare NYC’s Airbnb activity indicators with each other. </p>
+
+              <div class='tableauPlaceholder' id='viz1587696301627' style='position: relative; left: 22%;'><noscript>
+                <a href='#'>
+                  <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIrbnbuscityACTIVITY&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript>
+                  <object class='tableauViz'  style='display:none;'>
+                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                    <param name='embed_code_version' value='3' /> 
+                    <param name='site_root' value='' />
+                    <param name='name' value='AIrbnbuscityACTIVITY&#47;Sheet12' />
+                    <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+                    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIrbnbuscityACTIVITY&#47;Sheet12&#47;1.png' /> 
+                    <param name='animate_transition' value='yes' />
+                    <param name='display_static_image' value='yes' />
+                    <param name='display_spinner' value='yes' />
+                    <param name='display_overlay' value='yes' />
+                    <param name='display_count' value='yes' />
+                    <param name='filter' value='publish=yes' />
+                  </object></div>                
+                  <script type='text/javascript'>                    
+                    var divElement = document.getElementById('viz1587696301627');                    
+                    var vizElement = divElement.getElementsByTagName('object')[0];                    
+                    vizElement.style.width='74%';vizElement.style.height=(divElement.offsetWidth*0.4)+'px';                    
+                    var scriptElement = document.createElement('script');                    
+                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+                  </script>
+                  <p></p>
+        <p> The bubble size on the map shows that occupancy rate of NYC is 44.6%, lower than the average of the United States (34.3%). We can see that New York City has higher the average occupancy rate than many big cites in the United States, such as Los Angeles, San Francisco, boston, and Chicago. In addition, the number of stay nights of NYC is 163 nights per year, lower than the average of the United States (125 nights per year). However, the number of reviews per month are lower than the mean of all atates.</p>
+
+      <h3 style="font: bold 175% sans-serif;"> Occupancy rate, Reviewing score, Availability by Borough and Room type</h3>
+      <p>The 51,097 Airbnb listings are in all 5 boroughs of New York City, including Manhatton, Brooklyn, Queens, Bronx, and Staten lsland. In addition, the listing offer four different room types, including Entire house/apartment, hotel room, private room, and shared room. For the activity issue, we can explore the data as follows: </p>
+
+    <div class="row">
+      <div class="col-md-2">
+         <select class="form-control ratetypeSelect">
+            <option value="Availability selected">Availability</option>
+            <option value="Review ratings">Review ratings</option>
+            <option value="Occupancy rate">Occupancy rate</option>
+        </select>
+      </div>
+      <div class="col-md-12">
+      <div id="Avg_activity1" style="position: relative; left: 0%; display:inline-block;"></div>
+      <div id="Avg_activity2" style="position: relative; left: 2%; display:inline-block;"></div>
+    </div>
+  </div> <!-- row -->
+
+    <p> The bar chart with dropdown shows that the hosts in Staten Island sets up the highest average availability with 203 days, while Manhantton and Brooklyn have low availability. At the same time, hotel room type has the highest average availability with 286 days , while private room and entire home/apartment have low availability. Moving onto review rating issue, the average review ratings of Airbnb hosts in each area look nearly similar around the range of 93.0-94.0. At the same time, private room and entire home/apartment have the highest average score, while average hotel room scores is the lowest one. Lastly, the average occupancy rate in each area look also nearly similar around the range of 40.0-50.0%, as well as room types issue. </p>
+
+    <h3 style="font: bold 175% sans-serif;"> The Number of Reviews by Borough and Room Type</h3>
+    <p>Airbnb records the number of reviews and last review date to see the number of Airbnb customers. So, both of them are plotted with different 5 boroughs of New York City and different 4 different room types. In addition, the number of reviews are calculated to be the percentage change (Year to Year) to see how the number of customers change in each year as follows: </p>
+    <div class='tableauPlaceholder' id='viz1588108311948' style='position: relative'><noscript>
+      <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;nu&#47;numberreviewairbnb2020&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript>
+      <object class='tableauViz'  style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+        <param name='name' value='numberreviewairbnb2020&#47;Dashboard3' />
+        <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;nu&#47;numberreviewairbnb2020&#47;Dashboard3&#47;1.png' /> 
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='filter' value='publish=yes' /></object></div>                
+        <script type='text/javascript'>                    
+          var divElement = document.getElementById('viz1588108311948');                    
+          var vizElement = divElement.getElementsByTagName('object')[0];                    
+          if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
+          var scriptElement = document.createElement('script');                    
+          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+        <p></p>
+    <p>The above chart shows that annual growth rates of the number of reviews look fluctuation between 2012 and 2020. However, the number of reviews have continually increased since 2012. The left chart shows that Manhattan and Brooklyn contribute the most of the number of reviews in 2020, while Bronx is the lowest one. Moving onto the right chart, private room and entire home/apartment types contribute the most of the number of reviews in 2020, while shared room is the lowest one. </p>
+
+    <h3 style="font: bold 175% sans-serif;"> Availability by Review score levels, Borough, and Room type </h3>
+    <p> Airbnb hosts can setup a calendar for their listing so that it is only available for a few days or weeks a year. Other listings are available all year round (except for when it is already booked). So, avarage availability for 30, 60, 90, and 365 days are plotted with different 5 boroughs, 4 room types, and 3 review ratings levels to see how the hosts set up a calendar for their listing as follows: </p>
+
+    <div class='tableauPlaceholder' id='viz1588112676358' style='position: relative'><noscript>
+      <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Avaliability1airbnb2020&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript>
+      <object class='tableauViz'  style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='site_root' value='' />
+        <param name='name' value='Avaliability1airbnb2020&#47;Dashboard4' />
+        <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Avaliability1airbnb2020&#47;Dashboard4&#47;1.png' /> 
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='filter' value='publish=yes' /></object></div>                
+        <script type='text/javascript'>                    
+          var divElement = document.getElementById('viz1588112676358');                    
+          var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
+          var scriptElement = document.createElement('script');                    
+          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+
+        <p>The stacked bar charts show hotel room listings in each borough have the highest avarage availability for 30, 60, 90, and 365 days, particularly Airbnb listings in Queen. At the same time, private room and entire home/apartment have low avarage availability, especially the listings in Manhattan and Brooklyn. Moving onto ratings issue, low review ratings level and hotel room lisings have the highest avarage availability for 30, 60, 90, and 365 days. Low avarage availability is in high review ratings level, especially entire home/apartment. It is likely that the listings, where are far from Manhattan and Brooklyn, do not hotel room, and high review scores rating, have low availability for 30, 60, 90, and 365 days.</p>
+
+      <h3 style="font: bold 175% sans-serif;"> Host responses by Review rating and Occupancy rate</h3>
+      <p>Airbnb records the number of new hosts and started year of hosts. The number of hosts are calculated to be the percentage change (Year to Year) to see how the number of new hosts change in each year. In addition, host reponses rates are plotted with review rating and occupancy rate to find super-hosts in each area.</p>
+
+      <div class='tableauPlaceholder' id='viz1588225076409' style='position: relative'><noscript>
+        <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Avaliability1airbnb2020&#47;Dashboard5&#47;1_rss.png' style='border: none' /></a></noscript>
+        <object class='tableauViz'  style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+          <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+          <param name='name' value='Avaliability1airbnb2020&#47;Dashboard5' />
+          <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Avaliability1airbnb2020&#47;Dashboard5&#47;1.png' /> 
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='filter' value='publish=yes' /></object>
+        </div>                
+          <script type='text/javascript'>                    
+            var divElement = document.getElementById('viz1588225076409');                    
+            var vizElement = divElement.getElementsByTagName('object')[0];                    
+            if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='727px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='727px';} else { vizElement.style.width='100%';vizElement.style.height='977px';}                     
+            var scriptElement = document.createElement('script');                    
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+          </script>
+          <p></p>
+      <p>According to the first multiple chart, the number of new hosts shows decelerated growth rate from 2009 to 2020. There is only 510 new hosts in the list of Airbnb in New York City in 2020. The number of new hosts reach to the peak in 2015, with 7,956 new hosts. Moving onto the left scatter plot, most super-hosts are in the high-rating:high-response-rate region. We can see a few hosts with response rates less than 70%. This is a very small fraction of the hosts. In terms of Ratings, almost all hosts are rated 80% and above. Lastly, the right plot shows there is no pattern between occupancy rate and host response rate. Most hosts have higher response rate than 50.0%. </p>
+
+      <h3 style="font: bold 175% sans-serif;"> Conclusion</h3>
+    <ul class="a", type="square">
+      <li style="padding-left: 30px">New York City has higher the average occupancy rate than many big cities in the United States, such as Los Angeles, San Francisco, Boston, and Chicago.</li>
+      <br>
+      <li style="padding-left: 30px">Average occupancy rate and review ratings in each area and room type look nearly similar.</li>
+      <br>
+      <li style="padding-left: 30px">The number of Airbnb customers, reflected by the number of reviews, have continually increased since 2012, although yearly growth rate was fluctuated. Most visitors went to Manhattan and Brooklyn and always selected entire home/apartment types.</li>
+      <br>
+      <li style="padding-left: 30px">The listings, where are far from Manhattan and Brooklyn, do not hotel room type, and high review scores rating, have low availability.</li>
+      <br>
+      <li style="padding-left: 30px">The number of new hosts shows decelerated growth rate. Most hosts in Airbnb is super-hosts (high-rating: high-response-rate region). In addition, there is no pattern between occupancy rate and host response rate.</li>
+      </ul>
+  </div> <!-- detail -->  
+  <p></p>
+  <p></p>
+</div>
+<!-- overview -->
+
+<!-- External JS libraries -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/d3.min.js"></script>
+<script src="js/d3-tip.js"></script>
+
+<!-- Custom JS -->
+<script src="js/main_activity.js"></script>
+
+
+</body>
+
+</html>
