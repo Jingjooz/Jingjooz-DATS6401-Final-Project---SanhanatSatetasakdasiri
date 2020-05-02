@@ -1,0 +1,32 @@
+[
+    {
+       "Neighbourhood": "Staten Island",
+       "avg_availability": 203.0051813,
+       "avg_occupancy_rate": 53.84196891,
+       "avg_review_rating": 94.90062112
+    },
+    {
+       "Neighbourhood": "Queens",
+       "avg_availability": 151.6275818,
+       "avg_occupancy_rate": 49.92704163,
+       "avg_review_rating": 93.73362359
+    },
+    {
+       "Neighbourhood": "Manhattan",
+       "avg_availability": 118.3960528,
+       "avg_occupancy_rate": 44.53153309,
+       "avg_review_rating": 93.46442841
+    },
+    {
+       "Neighbourhood": "Brooklyn",
+       "avg_availability": 101.1040244,
+       "avg_occupancy_rate": 42.50395661,
+       "avg_review_rating": 94.32689531
+    },
+    {
+       "Neighbourhood": "Bronx",
+       "avg_availability": 170.5546814,
+       "avg_occupancy_rate": 51.1129819,
+       "avg_review_rating": 93.30374754
+    }
+ ]
