@@ -1,0 +1,536 @@
+[
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Aparthotel",
+     "Avg_yearly_income": 5796,
+     "Avg_monthly_income": 483
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Aparthotel",
+     "Avg_yearly_income": 72079.2,
+     "Avg_monthly_income": 6006.6
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Aparthotel",
+     "Avg_yearly_income": 42752.08,
+     "Avg_monthly_income": 3562.673333
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Aparthotel",
+     "Avg_yearly_income": 55188,
+     "Avg_monthly_income": 4599
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Apartment",
+     "Avg_yearly_income": 14830.18841,
+     "Avg_monthly_income": 1235.849034
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Apartment",
+     "Avg_yearly_income": 13772.4667,
+     "Avg_monthly_income": 1147.705559
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Apartment",
+     "Avg_yearly_income": 31558.5523,
+     "Avg_monthly_income": 2629.879359
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Barn",
+     "Avg_yearly_income": 22554,
+     "Avg_monthly_income": 1879.5
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Barn",
+     "Avg_yearly_income": 26901,
+     "Avg_monthly_income": 2241.75
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Bed and breakfast",
+     "Avg_yearly_income": 17604.36,
+     "Avg_monthly_income": 1467.03
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Bed and breakfast",
+     "Avg_yearly_income": 15588.74348,
+     "Avg_monthly_income": 1299.061957
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Bed and breakfast",
+     "Avg_yearly_income": 29502.36,
+     "Avg_monthly_income": 2458.53
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Bed and breakfast",
+     "Avg_yearly_income": 9991.8,
+     "Avg_monthly_income": 832.65
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Boat",
+     "Avg_yearly_income": 252000,
+     "Avg_monthly_income": 21000
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Boat",
+     "Avg_yearly_income": 259365.06,
+     "Avg_monthly_income": 21613.755
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Boutique hotel",
+     "Avg_yearly_income": 19574.64,
+     "Avg_monthly_income": 1631.22
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Boutique hotel",
+     "Avg_yearly_income": 347842.5195,
+     "Avg_monthly_income": 28986.87663
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Boutique hotel",
+     "Avg_yearly_income": 76522.5551,
+     "Avg_monthly_income": 6376.879592
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Boutique hotel",
+     "Avg_yearly_income": 35719.92,
+     "Avg_monthly_income": 2976.66
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Bungalow",
+     "Avg_yearly_income": 1200.6,
+     "Avg_monthly_income": 100.05
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Bungalow",
+     "Avg_yearly_income": 11187.495,
+     "Avg_monthly_income": 932.29125
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Bungalow",
+     "Avg_yearly_income": 29666.7792,
+     "Avg_monthly_income": 2472.2316
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Bus",
+     "Avg_yearly_income": 50400,
+     "Avg_monthly_income": 4200
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Bus",
+     "Avg_yearly_income": 1630.8,
+     "Avg_monthly_income": 135.9
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Cabin",
+     "Avg_yearly_income": 9971.46,
+     "Avg_monthly_income": 830.955
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Camper/RV",
+     "Avg_yearly_income": 24145.25143,
+     "Avg_monthly_income": 2012.104286
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Casa particular (Cuba)",
+     "Avg_yearly_income": 8696.16,
+     "Avg_monthly_income": 724.68
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Casa particular (Cuba)",
+     "Avg_yearly_income": 31968,
+     "Avg_monthly_income": 2664
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Castle",
+     "Avg_yearly_income": 19278,
+     "Avg_monthly_income": 1606.5
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Cave",
+     "Avg_yearly_income": 41400,
+     "Avg_monthly_income": 3450
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Cave",
+     "Avg_yearly_income": 17755.2,
+     "Avg_monthly_income": 1479.6
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Condominium",
+     "Avg_yearly_income": 12225.18462,
+     "Avg_monthly_income": 1018.765385
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Condominium",
+     "Avg_yearly_income": 18084.20508,
+     "Avg_monthly_income": 1507.01709
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Condominium",
+     "Avg_yearly_income": 48402.92534,
+     "Avg_monthly_income": 4033.577111
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Cottage",
+     "Avg_yearly_income": 14364,
+     "Avg_monthly_income": 1197
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Cottage",
+     "Avg_yearly_income": 46422,
+     "Avg_monthly_income": 3868.5
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Dome house",
+     "Avg_yearly_income": 5994,
+     "Avg_monthly_income": 499.5
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Dorm",
+     "Avg_yearly_income": 9576,
+     "Avg_monthly_income": 798
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Earth house",
+     "Avg_yearly_income": 6005.52,
+     "Avg_monthly_income": 500.46
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Earth house",
+     "Avg_yearly_income": 11310.6,
+     "Avg_monthly_income": 942.55
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Earth house",
+     "Avg_yearly_income": 615.6,
+     "Avg_monthly_income": 51.3
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Farm stay",
+     "Avg_yearly_income": 17640,
+     "Avg_monthly_income": 1470
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Guest suite",
+     "Avg_yearly_income": 5642.382857,
+     "Avg_monthly_income": 470.1985714
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Guest suite",
+     "Avg_yearly_income": 16068.45143,
+     "Avg_monthly_income": 1339.037619
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Guest suite",
+     "Avg_yearly_income": 26618.11366,
+     "Avg_monthly_income": 2218.176139
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Guesthouse",
+     "Avg_yearly_income": 17136,
+     "Avg_monthly_income": 1428
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Guesthouse",
+     "Avg_yearly_income": 18631.0575,
+     "Avg_monthly_income": 1552.588125
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Guesthouse",
+     "Avg_yearly_income": 27193.49143,
+     "Avg_monthly_income": 2266.124286
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Hostel",
+     "Avg_yearly_income": 11822.63294,
+     "Avg_monthly_income": 985.2194118
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Hostel",
+     "Avg_yearly_income": 19005.67636,
+     "Avg_monthly_income": 1583.806364
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Hostel",
+     "Avg_yearly_income": 18287.1,
+     "Avg_monthly_income": 1523.925
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Hotel",
+     "Avg_yearly_income": 138780.1423,
+     "Avg_monthly_income": 11565.01186
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Hotel",
+     "Avg_yearly_income": 39532.72235,
+     "Avg_monthly_income": 3294.393529
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "House",
+     "Avg_yearly_income": 7446.961773,
+     "Avg_monthly_income": 620.5801478
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "House",
+     "Avg_yearly_income": 12373.48513,
+     "Avg_monthly_income": 1031.123761
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "House",
+     "Avg_yearly_income": 39847.66822,
+     "Avg_monthly_income": 3320.639019
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Houseboat",
+     "Avg_yearly_income": 39024,
+     "Avg_monthly_income": 3252
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "In-law",
+     "Avg_yearly_income": 10080,
+     "Avg_monthly_income": 840
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Island",
+     "Avg_yearly_income": 20160,
+     "Avg_monthly_income": 1680
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Island",
+     "Avg_yearly_income": 47250,
+     "Avg_monthly_income": 3937.5
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Lighthouse",
+     "Avg_yearly_income": 201600,
+     "Avg_monthly_income": 16800
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Lighthouse",
+     "Avg_yearly_income": 24429.24,
+     "Avg_monthly_income": 2035.77
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Loft",
+     "Avg_yearly_income": 69073.80261,
+     "Avg_monthly_income": 5756.150217
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Loft",
+     "Avg_yearly_income": 16911.71853,
+     "Avg_monthly_income": 1409.309878
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Loft",
+     "Avg_yearly_income": 44638.82603,
+     "Avg_monthly_income": 3719.902169
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Other",
+     "Avg_yearly_income": 5196.3,
+     "Avg_monthly_income": 433.025
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Other",
+     "Avg_yearly_income": 45262.068,
+     "Avg_monthly_income": 3771.839
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Other",
+     "Avg_yearly_income": 42232.23789,
+     "Avg_monthly_income": 3519.353158
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Resort",
+     "Avg_yearly_income": 38993.77263,
+     "Avg_monthly_income": 3249.481053
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Resort",
+     "Avg_yearly_income": 47025.9,
+     "Avg_monthly_income": 3918.825
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Resort",
+     "Avg_yearly_income": 116891.64,
+     "Avg_monthly_income": 9740.97
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Serviced apartment",
+     "Avg_yearly_income": 3403.8,
+     "Avg_monthly_income": 283.65
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Serviced apartment",
+     "Avg_yearly_income": 22707.375,
+     "Avg_monthly_income": 1892.28125
+   },
+   {
+     "Room_Type": "Hotel room",
+     "Property_Type": "Serviced apartment",
+     "Avg_yearly_income": 56730.54857,
+     "Avg_monthly_income": 4727.545714
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Serviced apartment",
+     "Avg_yearly_income": 51827.08985,
+     "Avg_monthly_income": 4318.924154
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Tent",
+     "Avg_yearly_income": 2356.2,
+     "Avg_monthly_income": 196.35
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Tent",
+     "Avg_yearly_income": 20355.12,
+     "Avg_monthly_income": 1696.26
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Tent",
+     "Avg_yearly_income": 45343.8,
+     "Avg_monthly_income": 3778.65
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Timeshare",
+     "Avg_yearly_income": 7803,
+     "Avg_monthly_income": 650.25
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Tiny house",
+     "Avg_yearly_income": 10078.2,
+     "Avg_monthly_income": 839.85
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Tiny house",
+     "Avg_yearly_income": 20952.74571,
+     "Avg_monthly_income": 1746.062143
+   },
+   {
+     "Room_Type": "Shared room",
+     "Property_Type": "Townhouse",
+     "Avg_yearly_income": 6201.084706,
+     "Avg_monthly_income": 516.7570588
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Townhouse",
+     "Avg_yearly_income": 13335.7689,
+     "Avg_monthly_income": 1111.314075
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Townhouse",
+     "Avg_yearly_income": 61348.5736,
+     "Avg_monthly_income": 5112.381134
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Train",
+     "Avg_yearly_income": 7560,
+     "Avg_monthly_income": 630
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Treehouse",
+     "Avg_yearly_income": 6763.68,
+     "Avg_monthly_income": 563.64
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Villa",
+     "Avg_yearly_income": 12575.04,
+     "Avg_monthly_income": 1047.92
+   },
+   {
+     "Room_Type": "Entire home/apt",
+     "Property_Type": "Villa",
+     "Avg_yearly_income": 101273.4514,
+     "Avg_monthly_income": 8439.454286
+   },
+   {
+     "Room_Type": "Private room",
+     "Property_Type": "Yurt",
+     "Avg_yearly_income": 13212,
+     "Avg_monthly_income": 1101
+   }
+ ]
