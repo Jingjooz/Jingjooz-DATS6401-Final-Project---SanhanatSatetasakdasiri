@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>AIRBNB NYC 2020 - Price</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- D3 Tooltip CSS -->
+    <link rel="stylesheet" href="css/d3-tip.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Google API -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    
+</head>
+
+<body>
+  <div id="overview">
+    <div id="airbnb_picture">
+        <div class="airbnb">
+        <img src="image/Logo.png" alt="Airbnb" width="120" height="108"><!--airbnb-->
+    </div>
+           <div id="topic">
+            <h1>New York City 2020</h1>
+            </div><!--topic-->
+    </div><!--airbnb_picture-->
+
+    <div id="mainbar">
+        <ul class="navbar">  <!-- Create a narvar bar that display pages of the website-->
+          <li><a href="home.htm"><i class="fa fa-fw fa-home"></i> HOME</a></li>
+          <li><a class="picked" href="price.htm"><i class="fa fa-fw fa-bar-chart"></i> PRICE</a></li>
+          <li><a href="activity.htm"><i class="fa fa-fw fa fa-address-card-o"></i> ACTIVITY</a></li>
+          <li><a href="income.htm"><i class="fa fa-fw fa fa-money"></i> INCOME</a></li>
+        </ul>
+    </div><!-- mainbar -->
+
+    <!-- adapt the code from W3school to do the navigator bar-->
+    <script type="text/javascript">
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+          document.getElementById("mainbar").style.cssText = "font-size: 17px";
+          } else {
+          document.getElementById("mainbar").style.cssText = "font-size: 13px";
+        }
+      }
+      </script>
+
+      <div class="detail">
+        <h2 style="text-align:center; font: bold 175% sans-serif; margin: 0 0 15px 0; padding: 30px 0 5px 0;" >Price Analysis</h2>
+        <p> Price analysis is the review of the interaction of service prices of Airbnb listings. All Airbnb hosts of New York City offer daily prices for the customers. However, there are some Airbnb hosts that also offer weekly and monthly prices. In this section, the users, particularly the visitors of New York City, are able to see the price analysis in many dimensions in order to help them to make a decision for finding the best temporary accommodations in New York City, based on the questions as follow:
+          <ul class="a", type="square">
+            <li style="padding-left: 100px">What are the differences between Airbnb prices of NYC and other cities in the US?</li>
+            <li style="padding-left: 100px">How does price by location (borough and neighborhood)?</li>
+            <li style="padding-left: 100px">How does price by room types and property types?</li>
+            <li style="padding-left: 100px">How does price by review ratings and availability?</li>
+            <li style="padding-left: 100px">How can visitors avoid expensive housing prices in NYC?</li>
+            </ul>
+          </p>
+
+        <h3 style="font: bold 175% sans-serif;">Airbnb price in the United States</h3>
+        <p>Inside Airbnb records Airbnb listings information of 26 big cities with 18 states in the United States. It seems that there are different service prices in each area, depending on the number of visitors, the number of housing, and economic size. Based on the differences, we need to compare NYC’s Airbnb housing price with each other. </p>
+        <div class='tableauPlaceholder' id='viz1587276772248' style='position: relative; left: 22%;'><noscript>
+          <a href='#'>
+            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIrbnbuscityprice_15872766378280&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
+            <object class='tableauViz'  style='display:none;'>
+              <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+              <param name='embed_code_version' value='3' /> 
+              <param name='site_root' value='' />
+              <param name='name' value='AIrbnbuscityprice_15872766378280&#47;Sheet1' />
+              <param name='tabs' value='no' />
+              <param name='toolbar' value='yes' />
+              <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIrbnbuscityprice_15872766378280&#47;Sheet1&#47;1.png' /> 
+              <param name='animate_transition' value='yes' />
+              <param name='display_static_image' value='yes' />
+              <param name='display_spinner' value='yes' />
+              <param name='display_overlay' value='yes' />
+              <param name='display_count' value='yes' />
+              <param name='filter' value='publish=yes' /></object></div>                
+              <script type='text/javascript'>                    
+                var divElement = document.getElementById('viz1587276772248');                    
+                var vizElement = divElement.getElementsByTagName('object')[0];                    
+                vizElement.style.width='74%';vizElement.style.height=(divElement.offsetWidth*0.4)+'px';                    
+                var scriptElement = document.createElement('script');                    
+                scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+              </script>
+              <p></p>
+        <p> According to the city map, the average Airbnb price in New York City is approximately $160.0 per night, lower than the average Airbnb price in the United States. We can see that New York City has lower the average Airbnb price than many big cites in the United States, such as Los Angeles, Washington D.C., San Francisco, Chicago, and Boston </p>
+
+        <h3 style="font: bold 175% sans-serif;"> Price by Borough</h3>
+      <p>The 51,097 Airbnb listings are in all 5 boroughs of New York City, including Manhatton, Brooklyn, Queens, Bronx, and Staten lsland. According to the interactive map in home page, Manhattan has the most number of listings, followed by Brooklyn. For the price issue, there are also differences between each borough as follows: </p>
+
+      <div class="row">
+        <div class="col-md-2" style="position: relative; left: 5%;">
+           <select class="form-control pricetypeSelect">
+            <option value="Monthly selected">Monthly Price</option>
+            <option value="Weekly">Weekly Price</option>
+            <option value="Daily">Daily Price</option>
+           </select>
+        </div>
+        <div class="col-md-2" id="Avg_price1"></div>  
+    </div> <!-- row -->
+
+    <p> The bar chart with dropdown shows that Manhattan has the highest average daily price at $215, followed by Brooklyn with $125, while Bronx has the lowest average price at $89. In addition, there are some Airbnb hosts who offer weekly and monthly accommodations for the visitors. To begin with weekly housing, Manhattan have the highest average weelky price at $1,113, followed by Staten Island with $782, while Bronx has the lowest average price at $455. Moving onto monthly housing, the rank of monthly price is the same as daily price, led by Manhattan with $3,682 and Brooklyn with $2,499, respectively. </p>
+
+    <h3 style="font: bold 175% sans-serif;"> Price by Neighbourhood</h3>
+    <p>To see more details about price issue, the average daily prices of each neighbourhood of ecah borough are visualized by the treemap as follows: </p>
+
+    <div id="Avg_price2" style="left: 10%;"></div>
+    <p></p>
+    <p>The treemap presents that Manhattan Beach in Brooklyn has the highest average price at $862 per night, following by Fort Wadsworth and Woodrow in Staten Island with $800 and $700 per night, respectively, while Sound View in Bronx has the cheapest one, with $52 per night. To focus in each Borough, Theater District has the highest average price in Manhattan, whereas the average price of listings in Neponsit has the highest one in Queens, and Country Club is the first rank in Bronx.</p>
+
+    <h3 style="font: bold 175% sans-serif;"> Price by Room Type</h3>
+    <p>The 51,097 Airbnb listings of NYC offer four different room types, including Entire house/apartment, hotel room, private room, and shared room. According to the interactive map in home page, entire house/apartment has the most number of listings, followed by private room, while the minority of them is hotel room. For the price issue, there are also differences between each room type as follows: </p>
+      <div class="row">
+        <div class="col-md-2" style="position: relative; left: 5%;">
+           <select class="form-control priceroomtypeSelect">
+            <option value="Monthly selected">Monthly Price</option>
+            <option value="Weekly">Weekly Price</option>
+            <option value="Daily">Daily Price</option>
+           </select>
+        </div>
+        <div class="col-md-2" id="Avg_price3"></div>  
+    </div> <!-- row -->
+
+    <p>The above bar chart with dropdown shows that hotel room has the highest average daily price at $293, followed by entire house/apartment with $209, while shared room has the lowest average price at $85. In addition, there are some Airbnb hosts who offer weekly and monthly accommodations for the visitors. To begin with weekly housing, hotel room have the highest average weelky price at $4,935, followed by entire house/apartment with $1,198, while shared room has the lowest average price at $504. Moving onto monthly housing, the rank of monthly price is the same as daily and weekly prices, led by hotel room with $12,602 and entire house/apartment with $3,949, respectively.</p>
+
+    <h3 style="font: bold 175% sans-serif;"> Price by Property Type</h3>
+    <p>To see more details about price issue, Airbnb housings has 38 various property types, such as boat, tent, resort, castle, and cottage. The average daily prices of each property type of ecah roomtype are visualized by the treemap as follows:</p>
+
+    <div id="Avg_price4" style="left: 10%;"></div>
+    <p></p>
+    <p>The treemap presents that private room in boutique hotel has the highest average price at $1,786 per night, following by boat for housing purpose with $1,071 per night, while shared room in the bungalow and aprathotal has the cheapest one, with average $23 per night. In adittion, boat has the highest average price in shared room type.
+
+      <h3 style="font: bold 175% sans-serif;"> Price by Review scores rating and Availbility</h3>
+    <p> The customers give review score rating for each Airbnb listings of NYC. This project divides review score rating into 3 levels, including high (>= 90.0), moderate (>= 60), and low (< 60). In addition, this project divides availability (all year round, excepting for when it is already booked) into 2 levels, including high (>= 60 days per year) and low (< 60 days per year). We found there are some difference about average price in each issue as follows: </p>
+
+    <div class="row">
+          <div class="col-md-2">
+             <select class="form-control priceReviewratingSelect">
+                <option value="Monthly selected">Monthly Price</option>
+                <option value="Weekly">Weekly Price</option>
+                <option value="Daily">Daily Price</option>
+            </select>
+          </div>
+          <div class="col-md-12">
+          <div id="Avg_price5" style="position: relative; left: 0%; display:inline-block;"></div>
+          <div id="Avg_price6" style="position: relative; left: 2%; display:inline-block;"></div>
+        </div>
+      </div> <!-- row -->
+    
+      <p>The scatter chart with dropdown shows that the listings where get high review score rating have higher average monthly and weekliy prices than moderate and low scores listings. However, the low score listings have the highest average daily price at $339 per night. Moving onto availability, the high availability listings have average monthly, weekly, and daily prices, higher than low availability listings. </p>
+
+      <h3 style="font: bold 175% sans-serif;"> The relationship between the daily price and other variables</h3>
+      <p>This tool is developed to find out the relationship between the price and other variables, including availability, estimated number of bookings, estimated occupancy rate, and review scores.</p>
+
+      <div id="Avg_price7" style="position: relative; left: 0%; display:inline-block;"></div>
+      <div id="Avg_price8" style="position: relative; left: 0%; display:inline-block;"></div>
+      <div id="Avg_price9" style="position: relative; left: 0%; display:inline-block;"></div>
+      <div id="Avg_price10" style="position: relative; left: 0%; display:inline-block;"></div>
+      <script src="js/main_price_scatter.js"></script>
+
+      <p>According to the plot, there is positive relationship between price and reviewing scores rating, particularly in the score range of 60-100. However, there is negative relationship between price and number of bookings. Whereas, there are no relationship between the price and occupancy rate, as well as availability.</p>
+
+      <h3 style="font: bold 175% sans-serif;"> Conclusion</h3>
+      <ul class="a", type="square">
+      <li style="padding-left: 30px">New York City has lower the average Airbnb price than many big cities in the United States, such as Los Angeles, Washington D.C., San Francisco, Chicago, and Boston.</li>
+      <br>
+      <li style="padding-left: 30px">Manhattan has the most expensive rentals compared to the other boroughs, following by Brooklyn, while Bronx was the cheapest one. In addition, the listings where located near the bay and had the good view are the most expensive rentals, such as Manhattan Beach in Brooklyn and Fort Wadsworth in Staten Island.</li>
+      <br>
+      <li style="padding-left: 30px">Hotel room has the most expensive rentals compared to the other types, following by entire house/apartment, while shared room was the cheapest one. To more consider about property, private room in boutique hotel has the highest service price, followed by entire housing boat. </li>
+      <br>
+      <li style="padding-left: 30px">High review rating and high availability listings has the most expensive compared to the others. </li>
+      <br>
+      <li style="padding-left: 30px">NYC visitors who would like to avoid high housing costs payment. They should choose the listings where are far from Manhattan and Brooklyn with shared room, low reviewing score, and low availability.</li>
+      </ul>
+  </div> <!-- detail -->  
+  <p></p>
+  <p></p>
+</div>
+<!-- overview -->
+
+<!-- External JS libraries -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/d3.min.js"></script>
+<script src="js/d3-tip.js"></script>
+
+<!-- Custom JS -->
+<script src="js/main_price.js"></script>
+
+
+</body>
+
+</html>
