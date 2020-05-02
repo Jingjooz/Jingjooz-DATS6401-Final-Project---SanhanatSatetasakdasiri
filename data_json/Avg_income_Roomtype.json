@@ -1,0 +1,22 @@
+[
+  {
+    "Room_Type": "Shared room",
+    "Avg_Yearly_Income": 15396.75734,
+    "Avg_Monthly_Income": 1283.063111
+  },
+  {
+    "Room_Type": "Private room",
+    "Avg_Yearly_Income": 18012.58414,
+    "Avg_Monthly_Income": 1501.048678
+  },
+  {
+    "Room_Type": "Hotel room",
+    "Avg_Yearly_Income": 54491.8671,
+    "Avg_Monthly_Income": 4540.988925
+  },
+  {
+    "Room_Type": "Entire home/apt",
+    "Avg_Yearly_Income": 34302.13308,
+    "Avg_Monthly_Income": 2858.51109
+  }
+]
