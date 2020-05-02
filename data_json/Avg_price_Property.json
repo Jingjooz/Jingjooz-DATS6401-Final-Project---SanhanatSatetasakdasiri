@@ -1,0 +1,242 @@
+[
+  {
+     "Property_Type": "Yurt",
+     "Avg_Daily_Price": 75,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Villa",
+     "Avg_Daily_Price": 142.6129032,
+     "Avg_Monthly_Price": 1300,
+     "Avg_Weekly_Price": 365
+  },
+  {
+     "Property_Type": "Treehouse",
+     "Avg_Daily_Price": 44,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Train",
+     "Avg_Daily_Price": 30,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Townhouse",
+     "Avg_Daily_Price": 193.8703488,
+     "Avg_Monthly_Price": 3741.080925,
+     "Avg_Weekly_Price": 1093.870813
+  },
+  {
+     "Property_Type": "Tiny house",
+     "Avg_Daily_Price": 95.47826087,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Timeshare",
+     "Avg_Daily_Price": 425,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Tent",
+     "Avg_Daily_Price": 201.3333333,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Serviced apartment",
+     "Avg_Daily_Price": 273.5956522,
+     "Avg_Monthly_Price": 3831.816327,
+     "Avg_Weekly_Price": 2520.125
+  },
+  {
+     "Property_Type": "Resort",
+     "Avg_Daily_Price": 551.9736842,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Other",
+     "Avg_Daily_Price": 231.1935484,
+     "Avg_Monthly_Price": 2609.545455,
+     "Avg_Weekly_Price": 893.625
+  },
+  {
+     "Property_Type": "Loft",
+     "Avg_Daily_Price": 229.2017167,
+     "Avg_Monthly_Price": 3870.692737,
+     "Avg_Weekly_Price": 1217.690608
+  },
+  {
+     "Property_Type": "Lighthouse",
+     "Avg_Daily_Price": 499.5,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Island",
+     "Avg_Daily_Price": 415,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "In-law",
+     "Avg_Daily_Price": 40,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Houseboat",
+     "Avg_Daily_Price": 381.6666667,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "House",
+     "Avg_Daily_Price": 122.1721195,
+     "Avg_Monthly_Price": 2815.092643,
+     "Avg_Weekly_Price": 957.1850962
+  },
+  {
+     "Property_Type": "Hotel",
+     "Avg_Daily_Price": 331.4688645,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Hostel",
+     "Avg_Daily_Price": 72.09375,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Guesthouse",
+     "Avg_Daily_Price": 128.3289474,
+     "Avg_Monthly_Price": 3191.625,
+     "Avg_Weekly_Price": 985
+  },
+  {
+     "Property_Type": "Guest suite",
+     "Avg_Daily_Price": 115.3669725,
+     "Avg_Monthly_Price": 2706.266667,
+     "Avg_Weekly_Price": 802.7272727
+  },
+  {
+     "Property_Type": "Farm stay",
+     "Avg_Daily_Price": 70,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Earth house",
+     "Avg_Daily_Price": 68.5,
+     "Avg_Monthly_Price": 1250,
+     "Avg_Weekly_Price": 350
+  },
+  {
+     "Property_Type": "Dorm",
+     "Avg_Daily_Price": 38,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Dome house",
+     "Avg_Daily_Price": 52.5,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Cottage",
+     "Avg_Daily_Price": 174,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Condominium",
+     "Avg_Daily_Price": 218.3868872,
+     "Avg_Monthly_Price": 4649.296,
+     "Avg_Weekly_Price": 1231.760331
+  },
+  {
+     "Property_Type": "Cave",
+     "Avg_Daily_Price": 183.25,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Castle",
+     "Avg_Daily_Price": 83,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Casa particular (Cuba)",
+     "Avg_Daily_Price": 78.25,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Camper/RV",
+     "Avg_Daily_Price": 99.14285714,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Cabin",
+     "Avg_Daily_Price": 76.5,
+     "Avg_Monthly_Price": 2000,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Bus",
+     "Avg_Daily_Price": 175.5,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Bungalow",
+     "Avg_Daily_Price": 176.8529412,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": 550
+  },
+  {
+     "Property_Type": "Boutique hotel",
+     "Avg_Daily_Price": 1245.472906,
+     "Avg_Monthly_Price": 3200,
+     "Avg_Weekly_Price": 840
+  },
+  {
+     "Property_Type": "Boat",
+     "Avg_Daily_Price": 1063.111111,
+     "Avg_Monthly_Price": 1890,
+     "Avg_Weekly_Price": 536
+  },
+  {
+     "Property_Type": "Bed and breakfast",
+     "Avg_Daily_Price": 104.8103448,
+     "Avg_Monthly_Price": 2095.444444,
+     "Avg_Weekly_Price": 785.7272727
+  },
+  {
+     "Property_Type": "Barn",
+     "Avg_Daily_Price": 118,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  },
+  {
+     "Property_Type": "Apartment",
+     "Avg_Daily_Price": 144.0895683,
+     "Avg_Monthly_Price": 2820.434851,
+     "Avg_Weekly_Price": 860.2378825
+  },
+  {
+     "Property_Type": "Aparthotel",
+     "Avg_Daily_Price": 308.625,
+     "Avg_Monthly_Price": null,
+     "Avg_Weekly_Price": null
+  }
+]
