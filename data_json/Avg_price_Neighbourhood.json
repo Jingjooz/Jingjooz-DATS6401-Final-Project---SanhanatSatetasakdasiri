@@ -1,0 +1,32 @@
+[
+    {
+      "Neighbourhood": "Staten Island",
+      "Avg_Daily_Price": 104.5284974,
+      "Avg_Monthly_Price": 2159.555556,
+      "Avg_Weekly_Price": 782.0263158
+    },
+    {
+      "Neighbourhood": "Queens",
+      "Avg_Daily_Price": 97.34238958,
+      "Avg_Monthly_Price": 2067.5962,
+      "Avg_Weekly_Price": 601.6681514
+    },
+    {
+      "Neighbourhood": "Manhattan",
+      "Avg_Daily_Price": 215.0830777,
+      "Avg_Monthly_Price": 3681.777014,
+      "Avg_Weekly_Price": 1113.330247
+    },
+    {
+      "Neighbourhood": "Brooklyn",
+      "Avg_Daily_Price": 125.0865417,
+      "Avg_Monthly_Price": 2498.683945,
+      "Avg_Weekly_Price": 781.1666033
+    },
+    {
+      "Neighbourhood": "Bronx",
+      "Avg_Daily_Price": 89.02596381,
+      "Avg_Monthly_Price": 1575.26506,
+      "Avg_Weekly_Price": 455.4315789
+    }
+  ]
