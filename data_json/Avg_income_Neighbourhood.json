@@ -1,0 +1,27 @@
+[
+  {
+    "Neighbourhood": "Staten Island",
+    "Avg_Yearly_Income": 20241.94663,
+    "Avg_Monthly_Income": 1686.828886
+  },
+  {
+    "Neighbourhood": "Queens",
+    "Avg_Yearly_Income": 17386.53232,
+    "Avg_Monthly_Income": 1448.877693
+  },
+  {
+    "Neighbourhood": "Manhattan",
+    "Avg_Yearly_Income": 36791.96304,
+    "Avg_Monthly_Income": 3065.99692
+  },
+  {
+    "Neighbourhood": "Brooklyn",
+    "Avg_Yearly_Income": 19206.52141,
+    "Avg_Monthly_Income": 1600.543451
+  },
+  {
+    "Neighbourhood": "Bronx",
+    "Avg_Yearly_Income": 16498.27714,
+    "Avg_Monthly_Income": 1374.856428
+  }
+]
