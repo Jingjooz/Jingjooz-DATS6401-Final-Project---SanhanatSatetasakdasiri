@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Airbnb NYC 2020 - Homepage</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- D3 Tooltip CSS -->
+    <link rel="stylesheet" href="css/d3-tip.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div id="overview">
+            <div id="airbnb_picture">
+                <div class="airbnb">
+                <img src="image/Logo.png" alt="Airbnb" width="120" height="108"><!--airbnb-->
+            </div>
+                   <div id="topic">
+                    <h1>New York City 2020</h1>
+                    </div><!--topic-->
+            </div><!--airbnb_picture-->
+
+    <div id="mainbar">
+        <ul class="navbar">  <!-- Create a narvar bar that display pages of the website-->
+            <li><a class="picked" href="home.htm"><i class="fa fa-fw fa-home"></i> HOME</a></li>
+            <li><a href="price.htm"><i class="fa fa-fw fa-bar-chart"></i> PRICE</a></li>
+            <li><a href="activity.htm"><i class="fa fa-fw fa fa-address-card-o"></i> ACTIVITY</a></li>
+            <li><a href="income.htm"><i class="fa fa-fw fa fa-calendar"></i> INCOME</a></li>
+        </ul>
+    </div><!-- mainbar -->
+
+    <!-- adapt the code from W3school to do the navigator bar-->
+    <script type="text/javascript">
+        window.onscroll = function() {scrollFunction()};
+        function scrollFunction() {
+          if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            document.getElementById("mainbar").style.cssText = "font-size: 17px";
+            } else {
+            document.getElementById("mainbar").style.cssText = "font-size: 13px";
+          }
+        }
+        </script>
+
+        <P></P>
+      <div class="detail">
+        <h2 style="text-align:center; font: bold 175% sans-serif; margin: 0 0 15px 0; padding: 30px 0 5px 0;" >Analysis of Airbnb in New York City 2020</h2>
+        <h3 style="font: bold 175% sans-serif;"> Introduction</h2>
+        <p>New York is one of the world's largest Airbnb market since New York City (NYC) is one of the most famous cities in the United States as it is financial, cultural and entertainment centers of the world. It is undeniable that Airbnb has become a popular way to find the accommodations in New York City for foreign tourists around the world. Thus, Airbnb hosts data becomes a hot topic to do the research. This project will analyze them by using the data visualization.</p>
+
+        <h3 style="font: bold 175% sans-serif;"> Objective</h3>
+        <p>The objective of this project is that visualize the 51,097 NYC’s Airbnb hosts statistics in term of area and room types. The individual information of the Airbnb list with about 20 variables will be analyzed, under the topic of prices, activities, estimated host incomes issues, by summarizing data and doing advanced data visualization. This project will help the tourists around the world to make a decision for finding the best temporary accommodations in New York City after considering in detail of this analysis. In addition, the Airbnb hosts can make a change of management strategy for room services, prices, and others after getting more understanding about the feedback from the customers of Airbnb.</p>
+        
+        <h3 style="font: bold 175% sans-serif;"> Interactive Map</h3>
+        <p>This tool is developed to provide the basic Airbnb listings information for users. The map will help users to find the best accommodations in New York City under each condition on location, price, room type, and review score. In addition, occupancy rate, number of nights and monthly income of each listings was estimated and provided in this tool for monitoring and analyzing bussiness strategies.</p>
+
+        <div class='tableauPlaceholder' id='viz1584729384631' style='position: relative'><noscript>
+          <a href='#'>
+            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ai&#47;Airbnb_2020&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript>
+            <object class='tableauViz'  style='display:none;'>
+              <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+              <param name='embed_code_version' value='3' /> 
+              <param name='site_root' value='' />
+              <param name='name' value='Airbnb_2020&#47;Dashboard2' />
+              <param name='tabs' value='no' />
+              <param name='toolbar' value='yes' />
+              <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ai&#47;Airbnb_2020&#47;Dashboard2&#47;1.png' /> 
+              <param name='animate_transition' value='yes' />
+              <param name='display_static_image' value='yes' />
+              <param name='display_spinner' value='yes' />
+              <param name='display_overlay' value='yes' />
+              <param name='display_count' value='yes' />
+              <param name='filter' value='publish=yes' />
+            </object>
+          </div>             <!--tableauPlaceholder-->      
+
+          <script type='text/javascript'>                    
+            var divElement = document.getElementById('viz1584729384631');                    
+            var vizElement = divElement.getElementsByTagName('object')[0];                   
+             if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}                    
+             var scriptElement = document.createElement('script');                    
+             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+             </script>
+<!--End of Tableau public embedded-->
+             <p></p>
+            <p>Users are suggested to pick borough and room type with the drop down list, and filter with slide bars of review scores rating, estimated occupancy rate, price, and estimated monthly income. Finally, clicking the point on the map will show Airbnb listings information.</p>
+           <p>The bar chart on the left side show the number of Airbnb listings in each borough of New York City. The pie chart on the right side show the percent of total number of Airbnb listings in each room type.</p>
+
+           <h3 style="font: bold 175% sans-serif;"> Data Sources</h3>
+        <p>In this project, the CSV data file comes from <a href="http://insideairbnb.com/get-the-data.html"> Inside Airbnb</a>, then python is used to clean the data.</p>
+        <img src="image/data.png" style="width: 150px; height: 70px;">
+    </div>  
+        <p></p>
+        <p></p>
+</div>
+<!-- overview -->
+
+</body>
+
+</html>
