@@ -1,0 +1,21 @@
+[
+  {
+    "Review_Scores_Rating": "high",
+    "Avg_Daily_Price": 147.230732032,
+    "Avg_Monthly_Price": 3001.62188637,
+    "Avg_Weekly_Price": 910.616580311
+    
+  },
+  {
+    "Review_Scores_Rating": "moderate",
+    "Avg_Daily_Price": 149.0510252,
+    "Avg_Monthly_Price": 2706.545731707,
+    "Avg_Weekly_Price": 759.042424242
+  },
+  {
+    "Review_Scores_Rating": "low",
+    "Avg_Daily_Price": 339.250825083,
+    "Avg_Monthly_Price": 2524.8,
+    "Avg_Weekly_Price": 489.95
+  }
+]
