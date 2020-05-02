@@ -1,0 +1,27 @@
+
+   [
+      {
+         "Room_Type": "Shared room",
+         "avg_availability": 170.6340125,
+         "avg_occupancy_rate": 49.71371473,
+         "avg_review_rating": 91.29057889
+      },
+      {
+         "Room_Type": "Private room",
+         "avg_availability": 113.676404,
+         "avg_occupancy_rate": 44.46020026,
+         "avg_review_rating": 93.37333484
+      },
+      {
+         "Room_Type": "Hotel room",
+         "avg_availability": 285.5925,
+         "avg_occupancy_rate": 49.69975,
+         "avg_review_rating": 85.15
+      },
+      {
+         "Room_Type": "Entire home/apt",
+         "avg_availability": 115.5955918,
+         "avg_occupancy_rate": 44.41847567,
+         "avg_review_rating": 94.50987991
+      }
+   ]
