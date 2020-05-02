@@ -1,0 +1,26 @@
+[
+    {
+      "Room_Type": "Shared room",
+      "Avg_Daily_Price": 85.00940439,
+      "Avg_Monthly_Price": 1745.035714,
+      "Avg_Weekly_Price": 504.0153846
+    },
+    {
+      "Room_Type": "Private room",
+      "Avg_Daily_Price": 106.0661733,
+      "Avg_Monthly_Price": 1704.311988,
+      "Avg_Weekly_Price": 533.7021101
+    },
+    {
+      "Room_Type": "Hotel room",
+      "Avg_Daily_Price": 293.3475,
+      "Avg_Monthly_Price": 12601.66667,
+      "Avg_Weekly_Price": 4935
+    },
+    {
+      "Room_Type": "Entire home/apt",
+      "Avg_Daily_Price": 208.9016672,
+      "Avg_Monthly_Price": 3949.158397,
+      "Avg_Weekly_Price": 1198.418364
+    }
+  ]
