@@ -1,0 +1,1348 @@
+{
+  "airbnbpricearea":[
+    {
+      "Subneighbourhood": "Woodlawn",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 12773.57143,
+      "Avg_monthly_income": 1064.464286
+    },
+    {
+      "Subneighbourhood": "Williamsbridge",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16842.675,
+      "Avg_monthly_income": 1403.55625
+    },
+    {
+      "Subneighbourhood": "Westchester Square",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 12934.188,
+      "Avg_monthly_income": 1077.849
+    },
+    {
+      "Subneighbourhood": "West Farms",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15025.5,
+      "Avg_monthly_income": 1252.125
+    },
+    {
+      "Subneighbourhood": "Wakefield",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 19062.04263,
+      "Avg_monthly_income": 1588.503553
+    },
+    {
+      "Subneighbourhood": "Van Nest",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 30508.2,
+      "Avg_monthly_income": 2542.35
+    },
+    {
+      "Subneighbourhood": "University Heights",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 11664.09818,
+      "Avg_monthly_income": 972.0081818
+    },
+    {
+      "Subneighbourhood": "Unionport",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 36951.54,
+      "Avg_monthly_income": 3079.295
+    },
+    {
+      "Subneighbourhood": "Tremont",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 14610.294,
+      "Avg_monthly_income": 1217.5245
+    },
+    {
+      "Subneighbourhood": "Throgs Neck",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 18501.10054,
+      "Avg_monthly_income": 1541.758378
+    },
+    {
+      "Subneighbourhood": "Spuyten Duyvil",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15725.64,
+      "Avg_monthly_income": 1310.47
+    },
+    {
+      "Subneighbourhood": "Soundview",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 9985.635,
+      "Avg_monthly_income": 832.13625
+    },
+    {
+      "Subneighbourhood": "Schuylerville",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 11923.72364,
+      "Avg_monthly_income": 993.6436364
+    },
+    {
+      "Subneighbourhood": "Riverdale",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 28927.63636,
+      "Avg_monthly_income": 2410.636364
+    },
+    {
+      "Subneighbourhood": "Port Morris",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15601.7902,
+      "Avg_monthly_income": 1300.149184
+    },
+    {
+      "Subneighbourhood": "Pelham Gardens",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 20202.39529,
+      "Avg_monthly_income": 1683.532941
+    },
+    {
+      "Subneighbourhood": "Pelham Bay",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16993.50353,
+      "Avg_monthly_income": 1416.125294
+    },
+    {
+      "Subneighbourhood": "Parkchester",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 11901.98348,
+      "Avg_monthly_income": 991.8319565
+    },
+    {
+      "Subneighbourhood": "Olinville",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 14305.32,
+      "Avg_monthly_income": 1192.11
+    },
+    {
+      "Subneighbourhood": "Norwood",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 13570.00105,
+      "Avg_monthly_income": 1130.833421
+    },
+    {
+      "Subneighbourhood": "North Riverdale",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 18895.716,
+      "Avg_monthly_income": 1574.643
+    },
+    {
+      "Subneighbourhood": "Mount Hope",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 14163.4368,
+      "Avg_monthly_income": 1180.2864
+    },
+    {
+      "Subneighbourhood": "Mount Eden",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 9155.7,
+      "Avg_monthly_income": 762.975
+    },
+    {
+      "Subneighbourhood": "Mott Haven",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 17854.69808,
+      "Avg_monthly_income": 1487.891507
+    },
+    {
+      "Subneighbourhood": "Morrisania",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15493.58609,
+      "Avg_monthly_income": 1291.132174
+    },
+    {
+      "Subneighbourhood": "Morris Park",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 9720.735652,
+      "Avg_monthly_income": 810.0613043
+    },
+    {
+      "Subneighbourhood": "Morris Heights",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 12643.11,
+      "Avg_monthly_income": 1053.5925
+    },
+    {
+      "Subneighbourhood": "Melrose",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 10807.82182,
+      "Avg_monthly_income": 900.6518182
+    },
+    {
+      "Subneighbourhood": "Longwood",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16352.90873,
+      "Avg_monthly_income": 1362.742394
+    },
+    {
+      "Subneighbourhood": "Kingsbridge",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 12080.20174,
+      "Avg_monthly_income": 1006.683478
+    },
+    {
+      "Subneighbourhood": "Hunts Point",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 9666.135,
+      "Avg_monthly_income": 805.51125
+    },
+    {
+      "Subneighbourhood": "Highbridge",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15169.47273,
+      "Avg_monthly_income": 1264.122727
+    },
+    {
+      "Subneighbourhood": "Fordham",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 14415.192,
+      "Avg_monthly_income": 1201.266
+    },
+    {
+      "Subneighbourhood": "Fieldston",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 55002.288,
+      "Avg_monthly_income": 4583.524
+    },
+    {
+      "Subneighbourhood": "Edenwald",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16235.91429,
+      "Avg_monthly_income": 1352.992857
+    },
+    {
+      "Subneighbourhood": "Eastchester",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 17646.53143,
+      "Avg_monthly_income": 1470.544286
+    },
+    {
+      "Subneighbourhood": "East Morrisania",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 19060.08,
+      "Avg_monthly_income": 1588.34
+    },
+    {
+      "Subneighbourhood": "Country Club",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 132300,
+      "Avg_monthly_income": 11025
+    },
+    {
+      "Subneighbourhood": "Concourse Village",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 12557.92615,
+      "Avg_monthly_income": 1046.493846
+    },
+    {
+      "Subneighbourhood": "Concourse",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 15810.14038,
+      "Avg_monthly_income": 1317.511698
+    },
+    {
+      "Subneighbourhood": "Co-op City",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 3642,
+      "Avg_monthly_income": 303.5
+    },
+    {
+      "Subneighbourhood": "Clason Point",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 11765.06667,
+      "Avg_monthly_income": 980.4222222
+    },
+    {
+      "Subneighbourhood": "Claremont Village",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16678.45286,
+      "Avg_monthly_income": 1389.871071
+    },
+    {
+      "Subneighbourhood": "City Island",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 22501.4625,
+      "Avg_monthly_income": 1875.121875
+    },
+    {
+      "Subneighbourhood": "Castle Hill",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 18612.72,
+      "Avg_monthly_income": 1551.06
+    },
+    {
+      "Subneighbourhood": "Bronxdale",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16515.85263,
+      "Avg_monthly_income": 1376.321053
+    },
+    {
+      "Subneighbourhood": "Belmont",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 21160.044,
+      "Avg_monthly_income": 1763.337
+    },
+    {
+      "Subneighbourhood": "Baychester",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16674.912,
+      "Avg_monthly_income": 1389.576
+    },
+    {
+      "Subneighbourhood": "Allerton",
+      "Neighbourhood": "Bronx",
+      "Avg_yearly_income": 16419.448,
+      "Avg_monthly_income": 1368.287333
+    },
+    {
+      "Subneighbourhood": "Windsor Terrace",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 20591.47479,
+      "Avg_monthly_income": 1715.956233
+    },
+    {
+      "Subneighbourhood": "Williamsburg",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 22071.81023,
+      "Avg_monthly_income": 1839.317519
+    },
+    {
+      "Subneighbourhood": "Vinegar Hill",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 22218.3871,
+      "Avg_monthly_income": 1851.532258
+    },
+    {
+      "Subneighbourhood": "Sunset Park",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 15510.81489,
+      "Avg_monthly_income": 1292.567907
+    },
+    {
+      "Subneighbourhood": "South Slope",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 19566.45636,
+      "Avg_monthly_income": 1630.53803
+    },
+    {
+      "Subneighbourhood": "Sheepshead Bay",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18077.34316,
+      "Avg_monthly_income": 1506.445263
+    },
+    {
+      "Subneighbourhood": "Sea Gate",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 65428.452,
+      "Avg_monthly_income": 5452.371
+    },
+    {
+      "Subneighbourhood": "Red Hook",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 19810.45694,
+      "Avg_monthly_income": 1650.871412
+    },
+    {
+      "Subneighbourhood": "Prospect-Lefferts Gardens",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 16038.02519,
+      "Avg_monthly_income": 1336.502099
+    },
+    {
+      "Subneighbourhood": "Prospect Heights",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18610.49748,
+      "Avg_monthly_income": 1550.87479
+    },
+    {
+      "Subneighbourhood": "Park Slope",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 25363.8637,
+      "Avg_monthly_income": 2113.655308
+    },
+    {
+      "Subneighbourhood": "Navy Yard",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18274.73143,
+      "Avg_monthly_income": 1522.894286
+    },
+    {
+      "Subneighbourhood": "Mill Basin",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 24961.8,
+      "Avg_monthly_income": 2080.15
+    },
+    {
+      "Subneighbourhood": "Midwood",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 13394.91757,
+      "Avg_monthly_income": 1116.24313
+    },
+    {
+      "Subneighbourhood": "Manhattan Beach",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 208309.8185,
+      "Avg_monthly_income": 17359.15154
+    },
+    {
+      "Subneighbourhood": "Kensington",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 12322.56767,
+      "Avg_monthly_income": 1026.88064
+    },
+    {
+      "Subneighbourhood": "Greenpoint",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 19065.99042,
+      "Avg_monthly_income": 1588.832535
+    },
+    {
+      "Subneighbourhood": "Gravesend",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 15445.78364,
+      "Avg_monthly_income": 1287.148636
+    },
+    {
+      "Subneighbourhood": "Gowanus",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 24735.7324,
+      "Avg_monthly_income": 2061.311033
+    },
+    {
+      "Subneighbourhood": "Gerritsen Beach",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 30240,
+      "Avg_monthly_income": 2520
+    },
+    {
+      "Subneighbourhood": "Fort Hamilton",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 13948.60755,
+      "Avg_monthly_income": 1162.383962
+    },
+    {
+      "Subneighbourhood": "Fort Greene",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 22041.76877,
+      "Avg_monthly_income": 1836.814065
+    },
+    {
+      "Subneighbourhood": "Flatlands",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 16590.02562,
+      "Avg_monthly_income": 1382.502135
+    },
+    {
+      "Subneighbourhood": "Flatbush",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 13972.08313,
+      "Avg_monthly_income": 1164.340261
+    },
+    {
+      "Subneighbourhood": "East New York",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18441.01108,
+      "Avg_monthly_income": 1536.750923
+    },
+    {
+      "Subneighbourhood": "East Flatbush",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 19102.9044,
+      "Avg_monthly_income": 1591.9087
+    },
+    {
+      "Subneighbourhood": "Dyker Heights",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 14724.04235,
+      "Avg_monthly_income": 1227.003529
+    },
+    {
+      "Subneighbourhood": "DUMBO",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 35662.968,
+      "Avg_monthly_income": 2971.914
+    },
+    {
+      "Subneighbourhood": "Downtown Brooklyn",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 28876.48966,
+      "Avg_monthly_income": 2406.374138
+    },
+    {
+      "Subneighbourhood": "Cypress Hills",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 17657.83769,
+      "Avg_monthly_income": 1471.486474
+    },
+    {
+      "Subneighbourhood": "Crown Heights",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18099.13103,
+      "Avg_monthly_income": 1508.260919
+    },
+    {
+      "Subneighbourhood": "Coney Island",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 13368.48,
+      "Avg_monthly_income": 1114.04
+    },
+    {
+      "Subneighbourhood": "Columbia St",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 25913.664,
+      "Avg_monthly_income": 2159.472
+    },
+    {
+      "Subneighbourhood": "Cobble Hill",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 24861.84231,
+      "Avg_monthly_income": 2071.820192
+    },
+    {
+      "Subneighbourhood": "Clinton Hill",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 25364.12516,
+      "Avg_monthly_income": 2113.677097
+    },
+    {
+      "Subneighbourhood": "Carroll Gardens",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 21955.86931,
+      "Avg_monthly_income": 1829.655776
+    },
+    {
+      "Subneighbourhood": "Canarsie",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 19269.65872,
+      "Avg_monthly_income": 1605.804894
+    },
+    {
+      "Subneighbourhood": "Bushwick",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 13763.23124,
+      "Avg_monthly_income": 1146.935937
+    },
+    {
+      "Subneighbourhood": "Brownsville",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 16457.04,
+      "Avg_monthly_income": 1371.42
+    },
+    {
+      "Subneighbourhood": "Brooklyn Heights",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 28490.6784,
+      "Avg_monthly_income": 2374.2232
+    },
+    {
+      "Subneighbourhood": "Brighton Beach",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 25581.10667,
+      "Avg_monthly_income": 2131.758889
+    },
+    {
+      "Subneighbourhood": "Borough Park",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 10787.42535,
+      "Avg_monthly_income": 898.9521127
+    },
+    {
+      "Subneighbourhood": "Boerum Hill",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 29121.51746,
+      "Avg_monthly_income": 2426.793121
+    },
+    {
+      "Subneighbourhood": "Bergen Beach",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 21419.68235,
+      "Avg_monthly_income": 1784.973529
+    },
+    {
+      "Subneighbourhood": "Bensonhurst",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 14202.35538,
+      "Avg_monthly_income": 1183.529615
+    },
+    {
+      "Subneighbourhood": "Bedford-Stuyvesant",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18520.27547,
+      "Avg_monthly_income": 1543.356289
+    },
+    {
+      "Subneighbourhood": "Bay Ridge",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 18213.32025,
+      "Avg_monthly_income": 1517.776688
+    },
+    {
+      "Subneighbourhood": "Bath Beach",
+      "Neighbourhood": "Brooklyn",
+      "Avg_yearly_income": 14942.97,
+      "Avg_monthly_income": 1245.2475
+    },
+    {
+      "Subneighbourhood": "West Village",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 41439.05236,
+      "Avg_monthly_income": 3453.254363
+    },
+    {
+      "Subneighbourhood": "Washington Heights",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 13828.24867,
+      "Avg_monthly_income": 1152.354056
+    },
+    {
+      "Subneighbourhood": "Upper West Side",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 33602.05864,
+      "Avg_monthly_income": 2800.171553
+    },
+    {
+      "Subneighbourhood": "Upper East Side",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 30609.14741,
+      "Avg_monthly_income": 2550.762284
+    },
+    {
+      "Subneighbourhood": "Two Bridges",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 22850.76162,
+      "Avg_monthly_income": 1904.230135
+    },
+    {
+      "Subneighbourhood": "Tribeca",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 65968.73714,
+      "Avg_monthly_income": 5497.394762
+    },
+    {
+      "Subneighbourhood": "Theater District",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 89069.19713,
+      "Avg_monthly_income": 7422.433094
+    },
+    {
+      "Subneighbourhood": "Stuyvesant Town",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 54527.22419,
+      "Avg_monthly_income": 4543.935349
+    },
+    {
+      "Subneighbourhood": "SoHo",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 57353.05565,
+      "Avg_monthly_income": 4779.421304
+    },
+    {
+      "Subneighbourhood": "Roosevelt Island",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 16752.36774,
+      "Avg_monthly_income": 1396.030645
+    },
+    {
+      "Subneighbourhood": "Nolita",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 32165.03086,
+      "Avg_monthly_income": 2680.419238
+    },
+    {
+      "Subneighbourhood": "NoHo",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 36837.6528,
+      "Avg_monthly_income": 3069.8044
+    },
+    {
+      "Subneighbourhood": "Murray Hill",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 45690.41989,
+      "Avg_monthly_income": 3807.534991
+    },
+    {
+      "Subneighbourhood": "Morningside Heights",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 14035.3125,
+      "Avg_monthly_income": 1169.609375
+    },
+    {
+      "Subneighbourhood": "Midtown",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 75569.67529,
+      "Avg_monthly_income": 6297.472941
+    },
+    {
+      "Subneighbourhood": "Marble Hill",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 11614.8,
+      "Avg_monthly_income": 967.9
+    },
+    {
+      "Subneighbourhood": "Lower East Side",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 47022.69377,
+      "Avg_monthly_income": 3918.557814
+    },
+    {
+      "Subneighbourhood": "Little Italy",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 40826.88844,
+      "Avg_monthly_income": 3402.240703
+    },
+    {
+      "Subneighbourhood": "Kips Bay",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 36157.05974,
+      "Avg_monthly_income": 3013.088312
+    },
+    {
+      "Subneighbourhood": "Inwood",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 12130.10352,
+      "Avg_monthly_income": 1010.84196
+    },
+    {
+      "Subneighbourhood": "Hell's Kitchen",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 43697.52853,
+      "Avg_monthly_income": 3641.460711
+    },
+    {
+      "Subneighbourhood": "Harlem",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 19260.9671,
+      "Avg_monthly_income": 1605.080592
+    },
+    {
+      "Subneighbourhood": "Greenwich Village",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 43610.05265,
+      "Avg_monthly_income": 3634.171054
+    },
+    {
+      "Subneighbourhood": "Gramercy",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 42164.46345,
+      "Avg_monthly_income": 3513.705288
+    },
+    {
+      "Subneighbourhood": "Flatiron District",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 57887.73114,
+      "Avg_monthly_income": 4823.977595
+    },
+    {
+      "Subneighbourhood": "Financial District",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 39974.24199,
+      "Avg_monthly_income": 3331.186832
+    },
+    {
+      "Subneighbourhood": "East Village",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 28815.54952,
+      "Avg_monthly_income": 2401.295794
+    },
+    {
+      "Subneighbourhood": "East Harlem",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 22925.37214,
+      "Avg_monthly_income": 1910.447679
+    },
+    {
+      "Subneighbourhood": "Civic Center",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 36087.93509,
+      "Avg_monthly_income": 3007.327925
+    },
+    {
+      "Subneighbourhood": "Chinatown",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 43366.12269,
+      "Avg_monthly_income": 3613.843558
+    },
+    {
+      "Subneighbourhood": "Chelsea",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 35743.57666,
+      "Avg_monthly_income": 2978.631388
+    },
+    {
+      "Subneighbourhood": "Battery Park City",
+      "Neighbourhood": "Manhattan",
+      "Avg_yearly_income": 62423.65014,
+      "Avg_monthly_income": 5201.970845
+    },
+    {
+      "Subneighbourhood": "Woodside",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 13941.25329,
+      "Avg_monthly_income": 1161.771107
+    },
+    {
+      "Subneighbourhood": "Woodhaven",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 13817.73196,
+      "Avg_monthly_income": 1151.477664
+    },
+    {
+      "Subneighbourhood": "Whitestone",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 14957.52545,
+      "Avg_monthly_income": 1246.460455
+    },
+    {
+      "Subneighbourhood": "Sunnyside",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 14419.49115,
+      "Avg_monthly_income": 1201.624262
+    },
+    {
+      "Subneighbourhood": "St. Albans",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 19213.59951,
+      "Avg_monthly_income": 1601.133293
+    },
+    {
+      "Subneighbourhood": "Springfield Gardens",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 20927.27208,
+      "Avg_monthly_income": 1743.93934
+    },
+    {
+      "Subneighbourhood": "South Ozone Park",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 16821.72,
+      "Avg_monthly_income": 1401.81
+    },
+    {
+      "Subneighbourhood": "Rosedale",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15478.04,
+      "Avg_monthly_income": 1289.836667
+    },
+    {
+      "Subneighbourhood": "Rockaway Beach",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 25188.68789,
+      "Avg_monthly_income": 2099.057324
+    },
+    {
+      "Subneighbourhood": "Ridgewood",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 13203.39668,
+      "Avg_monthly_income": 1100.283057
+    },
+    {
+      "Subneighbourhood": "Richmond Hill",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15982.596,
+      "Avg_monthly_income": 1331.883
+    },
+    {
+      "Subneighbourhood": "Rego Park",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 14569.77677,
+      "Avg_monthly_income": 1214.148065
+    },
+    {
+      "Subneighbourhood": "Queens Village",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 19033.056,
+      "Avg_monthly_income": 1586.088
+    },
+    {
+      "Subneighbourhood": "Ozone Park",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17629.965,
+      "Avg_monthly_income": 1469.16375
+    },
+    {
+      "Subneighbourhood": "Neponsit",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 52433.52,
+      "Avg_monthly_income": 4369.46
+    },
+    {
+      "Subneighbourhood": "Middle Village",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17322.45231,
+      "Avg_monthly_income": 1443.537692
+    },
+    {
+      "Subneighbourhood": "Maspeth",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 16961.49324,
+      "Avg_monthly_income": 1413.45777
+    },
+    {
+      "Subneighbourhood": "Long Island City",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 21239.56477,
+      "Avg_monthly_income": 1769.963731
+    },
+    {
+      "Subneighbourhood": "Little Neck",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 11036.31429,
+      "Avg_monthly_income": 919.6928571
+    },
+    {
+      "Subneighbourhood": "Laurelton",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15654.93677,
+      "Avg_monthly_income": 1304.578065
+    },
+    {
+      "Subneighbourhood": "Kew Gardens Hills",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 16857.73286,
+      "Avg_monthly_income": 1404.811071
+    },
+    {
+      "Subneighbourhood": "Kew Gardens",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17990.58,
+      "Avg_monthly_income": 1499.215
+    },
+    {
+      "Subneighbourhood": "Jamaica Hills",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 29317.8,
+      "Avg_monthly_income": 2443.15
+    },
+    {
+      "Subneighbourhood": "Jamaica Estates",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 45975.504,
+      "Avg_monthly_income": 3831.292
+    },
+    {
+      "Subneighbourhood": "Jamaica",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17930.5634,
+      "Avg_monthly_income": 1494.213617
+    },
+    {
+      "Subneighbourhood": "Jackson Heights",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15871.03096,
+      "Avg_monthly_income": 1322.585913
+    },
+    {
+      "Subneighbourhood": "Howard Beach",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 21288.10667,
+      "Avg_monthly_income": 1774.008889
+    },
+    {
+      "Subneighbourhood": "Holliswood",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 40550.76,
+      "Avg_monthly_income": 3379.23
+    },
+    {
+      "Subneighbourhood": "Hollis",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17008.11692,
+      "Avg_monthly_income": 1417.343077
+    },
+    {
+      "Subneighbourhood": "Glendale",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 13955.60842,
+      "Avg_monthly_income": 1162.967368
+    },
+    {
+      "Subneighbourhood": "Fresh Meadows",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 18631.82182,
+      "Avg_monthly_income": 1552.651818
+    },
+    {
+      "Subneighbourhood": "Forest Hills",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 22041.93755,
+      "Avg_monthly_income": 1836.828129
+    },
+    {
+      "Subneighbourhood": "Flushing",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 19194.23353,
+      "Avg_monthly_income": 1599.519461
+    },
+    {
+      "Subneighbourhood": "Far Rockaway",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 29668.37294,
+      "Avg_monthly_income": 2472.364412
+    },
+    {
+      "Subneighbourhood": "Elmhurst",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 13681.43522,
+      "Avg_monthly_income": 1140.119601
+    },
+    {
+      "Subneighbourhood": "Edgemere",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 14610.69,
+      "Avg_monthly_income": 1217.5575
+    },
+    {
+      "Subneighbourhood": "East Elmhurst",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17693.06553,
+      "Avg_monthly_income": 1474.422128
+    },
+    {
+      "Subneighbourhood": "Douglaston",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 21442.95,
+      "Avg_monthly_income": 1786.9125
+    },
+    {
+      "Subneighbourhood": "Ditmars Steinway",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 17479.62531,
+      "Avg_monthly_income": 1456.635443
+    },
+    {
+      "Subneighbourhood": "Corona",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 11831.3136,
+      "Avg_monthly_income": 985.9428
+    },
+    {
+      "Subneighbourhood": "College Point",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15907.29,
+      "Avg_monthly_income": 1325.6075
+    },
+    {
+      "Subneighbourhood": "Cambria Heights",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 16616.55273,
+      "Avg_monthly_income": 1384.712727
+    },
+    {
+      "Subneighbourhood": "Briarwood",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15946.2936,
+      "Avg_monthly_income": 1328.8578
+    },
+    {
+      "Subneighbourhood": "Breezy Point",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 24674.16,
+      "Avg_monthly_income": 2056.18
+    },
+    {
+      "Subneighbourhood": "Bellerose",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 11006.64,
+      "Avg_monthly_income": 917.22
+    },
+    {
+      "Subneighbourhood": "Belle Harbor",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 30037.26,
+      "Avg_monthly_income": 2503.105
+    },
+    {
+      "Subneighbourhood": "Bayswater",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 15165.96923,
+      "Avg_monthly_income": 1263.830769
+    },
+    {
+      "Subneighbourhood": "Bayside",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 24337.50968,
+      "Avg_monthly_income": 2028.125806
+    },
+    {
+      "Subneighbourhood": "Bay Terrace",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 14732.1,
+      "Avg_monthly_income": 1227.675
+    },
+    {
+      "Subneighbourhood": "Astoria",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 16718.77812,
+      "Avg_monthly_income": 1393.23151
+    },
+    {
+      "Subneighbourhood": "Arverne",
+      "Neighbourhood": "Queens",
+      "Avg_yearly_income": 27047.46732,
+      "Avg_monthly_income": 2253.95561
+    },
+    {
+      "Subneighbourhood": "Woodrow",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 176400,
+      "Avg_monthly_income": 14700
+    },
+    {
+      "Subneighbourhood": "Willowbrook",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 43161.12,
+      "Avg_monthly_income": 3596.76
+    },
+    {
+      "Subneighbourhood": "Westerleigh",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 13180.93714,
+      "Avg_monthly_income": 1098.411429
+    },
+    {
+      "Subneighbourhood": "West Brighton",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 15096.16174,
+      "Avg_monthly_income": 1258.013478
+    },
+    {
+      "Subneighbourhood": "Tottenville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 26908.2,
+      "Avg_monthly_income": 2242.35
+    },
+    {
+      "Subneighbourhood": "Tompkinsville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 15934.7566,
+      "Avg_monthly_income": 1327.896383
+    },
+    {
+      "Subneighbourhood": "Todt Hill",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 6617.52,
+      "Avg_monthly_income": 551.46
+    },
+    {
+      "Subneighbourhood": "Stapleton",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 20578.8816,
+      "Avg_monthly_income": 1714.9068
+    },
+    {
+      "Subneighbourhood": "St. George",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 28707.5669,
+      "Avg_monthly_income": 2392.297241
+    },
+    {
+      "Subneighbourhood": "South Beach",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 8980.245,
+      "Avg_monthly_income": 748.35375
+    },
+    {
+      "Subneighbourhood": "Silver Lake",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 17640,
+      "Avg_monthly_income": 1470
+    },
+    {
+      "Subneighbourhood": "Shore Acres",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 21631.25455,
+      "Avg_monthly_income": 1802.604545
+    },
+    {
+      "Subneighbourhood": "Rossville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14742,
+      "Avg_monthly_income": 1228.5
+    },
+    {
+      "Subneighbourhood": "Rosebank",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 22487.625,
+      "Avg_monthly_income": 1873.96875
+    },
+    {
+      "Subneighbourhood": "Richmondtown",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 17148,
+      "Avg_monthly_income": 1429
+    },
+    {
+      "Subneighbourhood": "Randall Manor",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 26393.50588,
+      "Avg_monthly_income": 2199.458824
+    },
+    {
+      "Subneighbourhood": "Prince's Bay",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 115558.8,
+      "Avg_monthly_income": 9629.9
+    },
+    {
+      "Subneighbourhood": "Port Richmond",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 13059.9,
+      "Avg_monthly_income": 1088.325
+    },
+    {
+      "Subneighbourhood": "Port Ivory",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14603.4,
+      "Avg_monthly_income": 1216.95
+    },
+    {
+      "Subneighbourhood": "Oakwood",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 13974.6,
+      "Avg_monthly_income": 1164.55
+    },
+    {
+      "Subneighbourhood": "New Springville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 18658.8,
+      "Avg_monthly_income": 1554.9
+    },
+    {
+      "Subneighbourhood": "New Dorp Beach",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 12579.912,
+      "Avg_monthly_income": 1048.326
+    },
+    {
+      "Subneighbourhood": "New Dorp",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14364,
+      "Avg_monthly_income": 1197
+    },
+    {
+      "Subneighbourhood": "New Brighton",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 13295.25,
+      "Avg_monthly_income": 1107.9375
+    },
+    {
+      "Subneighbourhood": "Midland Beach",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14045.58,
+      "Avg_monthly_income": 1170.465
+    },
+    {
+      "Subneighbourhood": "Mariners Harbor",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 17807.26154,
+      "Avg_monthly_income": 1483.938462
+    },
+    {
+      "Subneighbourhood": "Lighthouse Hill",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 25802.1,
+      "Avg_monthly_income": 2150.175
+    },
+    {
+      "Subneighbourhood": "Huguenot",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 45360,
+      "Avg_monthly_income": 3780
+    },
+    {
+      "Subneighbourhood": "Howland Hook",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 9752.4,
+      "Avg_monthly_income": 812.7
+    },
+    {
+      "Subneighbourhood": "Grymes Hill",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 20870.055,
+      "Avg_monthly_income": 1739.17125
+    },
+    {
+      "Subneighbourhood": "Great Kills",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 19077.06,
+      "Avg_monthly_income": 1589.755
+    },
+    {
+      "Subneighbourhood": "Grant City",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 12642.84,
+      "Avg_monthly_income": 1053.57
+    },
+    {
+      "Subneighbourhood": "Graniteville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14628.6,
+      "Avg_monthly_income": 1219.05
+    },
+    {
+      "Subneighbourhood": "Fort Wadsworth",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 201600,
+      "Avg_monthly_income": 16800
+    },
+    {
+      "Subneighbourhood": "Emerson Hill",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 19810.35,
+      "Avg_monthly_income": 1650.8625
+    },
+    {
+      "Subneighbourhood": "Eltingville",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 11508,
+      "Avg_monthly_income": 959
+    },
+    {
+      "Subneighbourhood": "Dongan Hills",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 23603.85,
+      "Avg_monthly_income": 1966.9875
+    },
+    {
+      "Subneighbourhood": "Concord",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 12226.37684,
+      "Avg_monthly_income": 1018.864737
+    },
+    {
+      "Subneighbourhood": "Clifton",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14381.1675,
+      "Avg_monthly_income": 1198.430625
+    },
+    {
+      "Subneighbourhood": "Castleton Corners",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 15540,
+      "Avg_monthly_income": 1295
+    },
+    {
+      "Subneighbourhood": "Bull's Head",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 13876.29,
+      "Avg_monthly_income": 1156.3575
+    },
+    {
+      "Subneighbourhood": "Bay Terrace, Staten Island",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 1134,
+      "Avg_monthly_income": 94.5
+    },
+    {
+      "Subneighbourhood": "Arrochar",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 14587.56,
+      "Avg_monthly_income": 1215.63
+    },
+    {
+      "Subneighbourhood": "Arden Heights",
+      "Neighbourhood": "Staten Island",
+      "Avg_yearly_income": 17909.04,
+      "Avg_monthly_income": 1492.42
+    }
+  ]}
+  
